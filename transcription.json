@@ -1,0 +1,4537 @@
+{
+  "metadata": {
+    "dataset_title": "醫案（慶應義塾大學 F@イ@1，1858年記事） / Ian [Medical Case Records]: Transcription Dataset",
+    "historical_title": "醫案",
+    "historical_author": null,
+    "source_id": "慶應義塾大學北里記念醫學圖書館 富士川文庫 F@イ@1",
+    "source": "https://dcollections.lib.keio.ac.jp/ja/koisho/f-i-1",
+    "manifest": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/manifest.json",
+    "language": "lzh",
+    "version": "0.1.0",
+    "date": "2026-11-21",
+    "quality_zh": "AI 輔助初錄。保留原件缺損、疑讀及全冊影像定位。未做人類全文雙校、專家審定、同儕審查或準確率量測。",
+    "quality_en": "AI-assisted initial transcription with source references and marked uncertainties. Human full-text double proofreading, expert review, peer review and accuracy measurement were not performed.",
+    "editor": {
+      "name": "Chu, Chen-Yu",
+      "orcid": "0009-0003-9738-6914"
+    },
+    "initial_sha256": "ac2b16dc31a8fb76342d4005dfe9c26f0e3e4463667c3143674c507d4013cf9c"
+  },
+  "pages": [
+    {
+      "image": 1,
+      "label": "1",
+      "id": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page1",
+      "sha256": "bca73ead5aa1090059afd2bc37f659c8c9b2da7b8e4cba9e9b195ed8f08922f2",
+      "locator": "https://iiif.lib.keio.ac.jp/FJK/F-i-1/pdf/F-i-1.pdf#page=1",
+      "note": "題簽、書庫標貼、水印",
+      "surfaces": [
+        {
+          "side": "right",
+          "units": [],
+          "notes": [
+            "background"
+          ]
+        },
+        {
+          "side": "left",
+          "units": [
+            {
+              "id": "f01-left-cover_title-01",
+              "index_in_role": 1,
+              "role": "cover_title",
+              "text": "醫案"
+            }
+          ],
+          "notes": [
+            "cover_title"
+          ]
+        }
+      ]
+    },
+    {
+      "image": 2,
+      "label": "2",
+      "id": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page2",
+      "sha256": "9ff98a498f0ccf188d5fc710433c838bd5642c34429071a710b30f10a71df7c3",
+      "locator": "https://iiif.lib.keio.ac.jp/FJK/F-i-1/pdf/F-i-1.pdf#page=2",
+      "note": "鉛筆書庫字、收藏章、內題、墨筆欄外題記",
+      "surfaces": [
+        {
+          "side": "right",
+          "units": [],
+          "notes": [
+            "holding_marks"
+          ]
+        },
+        {
+          "side": "left",
+          "units": [
+            {
+              "id": "f02-left-inner_title-01",
+              "index_in_role": 1,
+              "role": "inner_title",
+              "text": "己未"
+            },
+            {
+              "id": "f02-left-inner_title-02",
+              "index_in_role": 2,
+              "role": "inner_title",
+              "text": "醫案"
+            },
+            {
+              "id": "f02-left-inner_annotation-01",
+              "index_in_role": 1,
+              "role": "inner_annotation",
+              "text": "□日參□之"
+            }
+          ],
+          "notes": [
+            "inner_title_annotation"
+          ]
+        }
+      ]
+    },
+    {
+      "image": 3,
+      "label": "3",
+      "id": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page3",
+      "sha256": "fa825a0a639929290377322754e739b0664b3224070524cef4896385f491cea8",
+      "locator": "https://iiif.lib.keio.ac.jp/FJK/F-i-1/pdf/F-i-1.pdf#page=3",
+      "note": "右收藏章；左十正文欄及朱眉批、朱筆句讀、校記、墨損",
+      "surfaces": [
+        {
+          "side": "right",
+          "units": [],
+          "notes": [
+            "seal"
+          ]
+        },
+        {
+          "side": "left",
+          "units": [
+            {
+              "id": "f03-left-body-01",
+              "index_in_role": 1,
+              "role": "body",
+              "text": "醫案"
+            },
+            {
+              "id": "f03-left-body-02",
+              "index_in_role": 2,
+              "role": "body",
+              "text": "安政戊午之秋都鄙一種之奇病大流布"
+            },
+            {
+              "id": "f03-left-body-03",
+              "index_in_role": 3,
+              "role": "body",
+              "text": "其癥俄然吐瀉頻數心下有水飲瀝々有"
+            },
+            {
+              "id": "f03-left-body-04",
+              "index_in_role": 4,
+              "role": "body",
+              "text": "聲掣痛如刀被刺四支厥冷煩燥其緩漫"
+            },
+            {
+              "id": "f03-left-body-05",
+              "index_in_role": 5,
+              "role": "body",
+              "text": "者脉微々如蜘蛛之糸其急劇者死到脉"
+            },
+            {
+              "id": "f03-left-body-06",
+              "index_in_role": 6,
+              "role": "body",
+              "text": "厥或有發轉筋者或有大煩渇喜引冷水"
+            },
+            {
+              "id": "f03-left-body-07",
+              "index_in_role": 7,
+              "role": "body",
+              "text": "熱湯不入口者或有舌上白胎者或有黃"
+            },
+            {
+              "id": "f03-left-body-08",
+              "index_in_role": 8,
+              "role": "body",
+              "text": "胎乾而不渇者或有無胎黑舌者或乾燥"
+            },
+            {
+              "id": "f03-left-body-09",
+              "index_in_role": 9,
+              "role": "body",
+              "text": "或滑澤其佗症候千變万化不暇枚舉於"
+            },
+            {
+              "id": "f03-left-body-10",
+              "index_in_role": 10,
+              "role": "body",
+              "text": "此與白虎湯或白虎加人□〔缺損〕虎加桂"
+            },
+            {
+              "id": "f03-left-red_head_note-01",
+              "index_in_role": 1,
+              "role": "red_head_note",
+              "text": "現症不盡于此宜□□"
+            },
+            {
+              "id": "f03-left-red_head_note-02",
+              "index_in_role": 2,
+              "role": "red_head_note",
+              "text": "書之"
+            },
+            {
+              "id": "f03-left-red_inline-01",
+              "index_in_role": 1,
+              "role": "red_inline",
+              "text": "行"
+            }
+          ],
+          "notes": [
+            "body_red"
+          ]
+        }
+      ]
+    },
+    {
+      "image": 4,
+      "label": "4",
+      "id": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page4",
+      "sha256": "c81ec0250bbb660371bad743ef89e9a1e4068f2d003ddd1771eb95777943b93c",
+      "locator": "https://iiif.lib.keio.ac.jp/FJK/F-i-1/pdf/F-i-1.pdf#page=4",
+      "note": "右十正文欄、細黑眉批、朱色插改；左七正文欄、朱眉批、末三欄朱批接次頁",
+      "surfaces": [
+        {
+          "side": "right",
+          "units": [
+            {
+              "id": "f04-right-body-01",
+              "index_in_role": 1,
+              "role": "body",
+              "text": "枝之輩煩渇不減下利〔缺損〕余因思"
+            },
+            {
+              "id": "f04-right-body-02",
+              "index_in_role": 2,
+              "role": "body",
+              "text": "虚火炎上之所致也再與既濟真武四逆"
+            },
+            {
+              "id": "f04-right-body-03",
+              "index_in_role": 3,
+              "role": "body",
+              "text": "諸湯亦無寸効而為泉客者不識幾千人"
+            },
+            {
+              "id": "f04-right-body-04",
+              "index_in_role": 4,
+              "role": "body",
+              "text": "衆医徒束手是歟矣余嘗然歎息廢業忘"
+            },
+            {
+              "id": "f04-right-body-05",
+              "index_in_role": 5,
+              "role": "body",
+              "text": "寐食沈思數囘無良策一日偶讀書櫃所"
+            },
+            {
+              "id": "f04-right-body-06",
+              "index_in_role": 6,
+              "role": "body",
+              "text": "藏之痧脹玉衡書然後得清凉至寶飲方"
+            },
+            {
+              "id": "f04-right-body-07",
+              "index_in_role": 7,
+              "role": "body",
+              "text": "刺絡之術試施之覺有効驗雖然猶未能"
+            },
+            {
+              "id": "f04-right-body-08",
+              "index_in_role": 8,
+              "role": "body",
+              "text": "盡挽囘技術至于此窮矣因問於方道長"
+            },
+            {
+              "id": "f04-right-body-09",
+              "index_in_role": 9,
+              "role": "body",
+              "text": "尾先生先生默而不言少時示余曰若有"
+            },
+            {
+              "id": "f04-right-body-10",
+              "index_in_role": 10,
+              "role": "body",
+              "text": "心下水飲而吐利數行煩渇者千金瀉心"
+            },
+            {
+              "id": "f04-right-black_head_note-01",
+              "index_in_role": 1,
+              "role": "black_head_note",
+              "text": "霍亂又曰先之所□□"
+            },
+            {
+              "id": "f04-right-black_head_note-02",
+              "index_in_role": 2,
+              "role": "black_head_note",
+              "text": "治溫熱有醫証症□"
+            },
+            {
+              "id": "f04-right-black_head_note-03",
+              "index_in_role": 3,
+              "role": "black_head_note",
+              "text": "□□進退發□"
+            },
+            {
+              "id": "f04-right-black_head_note-04",
+              "index_in_role": 4,
+              "role": "black_head_note",
+              "text": "□□□血□"
+            },
+            {
+              "id": "f04-right-black_head_note-05",
+              "index_in_role": 5,
+              "role": "black_head_note",
+              "text": "從前□進□□"
+            },
+            {
+              "id": "f04-right-black_head_note-06",
+              "index_in_role": 6,
+              "role": "black_head_note",
+              "text": "腸□□"
+            },
+            {
+              "id": "f04-right-black_head_note-07",
+              "index_in_role": 7,
+              "role": "black_head_note",
+              "text": "近日"
+            },
+            {
+              "id": "f04-right-red_inline-01",
+              "index_in_role": 1,
+              "role": "red_inline",
+              "text": "死不救"
+            },
+            {
+              "id": "f04-right-red_inline-02",
+              "index_in_role": 2,
+              "role": "red_inline",
+              "text": "數十"
+            },
+            {
+              "id": "f04-right-red_inline-03",
+              "index_in_role": 3,
+              "role": "red_inline",
+              "text": "而已"
+            },
+            {
+              "id": "f04-right-red_inline-04",
+              "index_in_role": 4,
+              "role": "red_inline",
+              "text": "因"
+            },
+            {
+              "id": "f04-right-red_inline-05",
+              "index_in_role": 5,
+              "role": "red_inline",
+              "text": "稍"
+            },
+            {
+              "id": "f04-right-red_inline-06",
+              "index_in_role": 6,
+              "role": "red_inline",
+              "text": "問之"
+            }
+          ],
+          "notes": [
+            "body_black_red"
+          ]
+        },
+        {
+          "side": "left",
+          "units": [
+            {
+              "id": "f04-left-body-01",
+              "index_in_role": 1,
+              "role": "body",
+              "text": "湯或刪繁半夏瀉心湯可也若既吐煩燥"
+            },
+            {
+              "id": "f04-left-body-02",
+              "index_in_role": 2,
+              "role": "body",
+              "text": "四肢厥冷者吴茱萸湯或從症黃連湯或"
+            },
+            {
+              "id": "f04-left-body-03",
+              "index_in_role": 3,
+              "role": "body",
+              "text": "三黃湯之輩亦可也余退而以此方與此"
+            },
+            {
+              "id": "f04-left-body-04",
+              "index_in_role": 4,
+              "role": "body",
+              "text": "症奏効嘻嗟是以救危篤之者數十許人"
+            },
+            {
+              "id": "f04-left-body-05",
+              "index_in_role": 5,
+              "role": "body",
+              "text": "不堪雀躍刀圭之餘聊為世俗述其端以"
+            },
+            {
+              "id": "f04-left-body-06",
+              "index_in_role": 6,
+              "role": "body",
+              "text": "示同志于時仲秋会于東都長尾氏燈"
+            },
+            {
+              "id": "f04-left-body-07",
+              "index_in_role": 7,
+              "role": "body",
+              "text": "下相陽遊學生秦齋池田午謹誌之"
+            },
+            {
+              "id": "f04-left-red_head_note-01",
+              "index_in_role": 1,
+              "role": "red_head_note",
+              "text": "雀躍二字置之亦可"
+            },
+            {
+              "id": "f04-left-red_inline-01",
+              "index_in_role": 1,
+              "role": "red_inline",
+              "text": "其所現"
+            },
+            {
+              "id": "f04-left-red_inline-02",
+              "index_in_role": 2,
+              "role": "red_inline",
+              "text": "病之□有病有□則"
+            },
+            {
+              "id": "f04-left-red_inline-03",
+              "index_in_role": 3,
+              "role": "red_inline",
+              "text": "書之"
+            },
+            {
+              "id": "f04-left-red_inline-04",
+              "index_in_role": 4,
+              "role": "red_inline",
+              "text": "條然"
+            },
+            {
+              "id": "f04-left-red_comment-01",
+              "index_in_role": 1,
+              "role": "red_comment",
+              "text": "去歳惡疫之行人多死非命雖曰氣運或医治乖誤目"
+            },
+            {
+              "id": "f04-left-red_comment-02",
+              "index_in_role": 2,
+              "role": "red_comment",
+              "text": "為泉客者十居六七為司命之官者所以不可不講究"
+            },
+            {
+              "id": "f04-left-red_comment-03",
+              "index_in_role": 3,
+              "role": "red_comment",
+              "text": "之於平日臨危濟厄而濟其生也〔缺損〕少傷寒論"
+            }
+          ],
+          "notes": [
+            "body_red"
+          ]
+        }
+      ]
+    },
+    {
+      "image": 5,
+      "label": "5",
+      "id": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page5",
+      "sha256": "159e29cc52a3cc91870fd50d6cc2560464ac5828cbeffc58418eab33cffa2ef4",
+      "locator": "https://iiif.lib.keio.ac.jp/FJK/F-i-1/pdf/F-i-1.pdf#page=5",
+      "note": "右五朱批欄；左十正文欄、小字朱色插改及朱眉批",
+      "surfaces": [
+        {
+          "side": "right",
+          "units": [
+            {
+              "id": "f05-right-red_comment-01",
+              "index_in_role": 1,
+              "role": "red_comment",
+              "text": "中諄々垂戒萬病千症雖不可〔缺損〕明且於此莫"
+            },
+            {
+              "id": "f05-right-red_comment-02",
+              "index_in_role": 2,
+              "role": "red_comment",
+              "text": "不隨手奏效者始少誤人耳何知後人容易讀去"
+            },
+            {
+              "id": "f05-right-red_comment-03",
+              "index_in_role": 3,
+              "role": "red_comment",
+              "text": "未甞留神于此々尋常疾病猶不能救況於竒"
+            },
+            {
+              "id": "f05-right-red_comment-04",
+              "index_in_role": 4,
+              "role": "red_comment",
+              "text": "病異症哉孫真人曰學無日夜行動致顛墜嗟今"
+            },
+            {
+              "id": "f05-right-red_comment-05",
+              "index_in_role": 5,
+              "role": "red_comment",
+              "text": "之為醫者危哉云々"
+            }
+          ],
+          "notes": [
+            "red_comment"
+          ]
+        },
+        {
+          "side": "left",
+          "units": [
+            {
+              "id": "f05-left-body-01",
+              "index_in_role": 1,
+              "role": "body",
+              "text": "一婦新婚不日小腹成塊大如臂其痛如"
+            },
+            {
+              "id": "f05-left-body-02",
+              "index_in_role": 2,
+              "role": "body",
+              "text": "淋自不能前又不能起卧大小便共秘衆"
+            },
+            {
+              "id": "f05-left-body-03",
+              "index_in_role": 3,
+              "role": "body",
+              "text": "医為血塊調理其病日重使余診之其脉"
+            },
+            {
+              "id": "f05-left-body-04",
+              "index_in_role": 4,
+              "role": "body",
+              "text": "沈緊有力余曰非血塊此腸癰膿已成也"
+            },
+            {
+              "id": "f05-left-body-05",
+              "index_in_role": 5,
+              "role": "body",
+              "text": "使服大黃牡丹皮湯不□時腹中雷鳴忽"
+            },
+            {
+              "id": "f05-left-body-06",
+              "index_in_role": 6,
+              "role": "body",
+              "text": "下膿一椀痛即減舉家喜曰慶此藥諸多"
+            },
+            {
+              "id": "f05-left-body-07",
+              "index_in_role": 7,
+              "role": "body",
+              "text": "服余曰可又與三貼下如魚腸者約六七"
+            },
+            {
+              "id": "f05-left-body-08",
+              "index_in_role": 8,
+              "role": "body",
+              "text": "椀苦楚脫然如故自起行圍再診之脉緩"
+            },
+            {
+              "id": "f05-left-body-09",
+              "index_in_role": 9,
+              "role": "body",
+              "text": "遲轉與千金内托散五六貼氣力復元精"
+            },
+            {
+              "id": "f05-left-body-10",
+              "index_in_role": 10,
+              "role": "body",
+              "text": "神亦爽慧飮食如常"
+            },
+            {
+              "id": "f05-left-red_head_note-01",
+              "index_in_role": 1,
+              "role": "red_head_note",
+              "text": "緩遲二字轉置為可"
+            },
+            {
+              "id": "f05-left-red_inline-01",
+              "index_in_role": 1,
+              "role": "red_inline",
+              "text": "起卧"
+            },
+            {
+              "id": "f05-left-red_inline-02",
+              "index_in_role": 2,
+              "role": "red_inline",
+              "text": "困頓"
+            },
+            {
+              "id": "f05-left-red_inline-03",
+              "index_in_role": 3,
+              "role": "red_inline",
+              "text": "便"
+            },
+            {
+              "id": "f05-left-red_inline-04",
+              "index_in_role": 4,
+              "role": "red_inline",
+              "text": "益"
+            },
+            {
+              "id": "f05-left-red_inline-05",
+              "index_in_role": 5,
+              "role": "red_inline",
+              "text": "始"
+            },
+            {
+              "id": "f05-left-red_inline-06",
+              "index_in_role": 6,
+              "role": "red_inline",
+              "text": "須臾"
+            },
+            {
+              "id": "f05-left-red_inline-07",
+              "index_in_role": 7,
+              "role": "red_inline",
+              "text": "藥效如此命亦無恙願"
+            },
+            {
+              "id": "f05-left-red_inline-08",
+              "index_in_role": 8,
+              "role": "red_inline",
+              "text": "四"
+            },
+            {
+              "id": "f05-left-red_inline-09",
+              "index_in_role": 9,
+              "role": "red_inline",
+              "text": "前方"
+            },
+            {
+              "id": "f05-left-red_inline-10",
+              "index_in_role": 10,
+              "role": "red_inline",
+              "text": "頓"
+            },
+            {
+              "id": "f05-left-red_inline-11",
+              "index_in_role": 11,
+              "role": "red_inline",
+              "text": "四"
+            },
+            {
+              "id": "f05-left-red_inline-12",
+              "index_in_role": 12,
+              "role": "red_inline",
+              "text": "而"
+            },
+            {
+              "id": "f05-left-red_inline-13",
+              "index_in_role": 13,
+              "role": "red_inline",
+              "text": "更"
+            },
+            {
+              "id": "f05-left-red_inline-14",
+              "index_in_role": 14,
+              "role": "red_inline",
+              "text": "遲"
+            }
+          ],
+          "notes": [
+            "body_red"
+          ]
+        }
+      ]
+    },
+    {
+      "image": 6,
+      "label": "6",
+      "id": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page6",
+      "sha256": "a9525e0c0e89e8c5503f4f0c7938fed9f99fb7b8d41794e354fa4e5cd7767717",
+      "locator": "https://iiif.lib.keio.ac.jp/FJK/F-i-1/pdf/F-i-1.pdf#page=6",
+      "note": "右六正文欄、四朱批欄、朱眉批及框下批；左十正文欄、朱插改",
+      "surfaces": [
+        {
+          "side": "right",
+          "units": [
+            {
+              "id": "f06-right-body-01",
+              "index_in_role": 1,
+              "role": "body",
+              "text": "東都麹街大住屋吉兵衞□十餘腹張"
+            },
+            {
+              "id": "f06-right-body-02",
+              "index_in_role": 2,
+              "role": "body",
+              "text": "如鼔轉側小腹有雷鳴余曰此腸癰膿已"
+            },
+            {
+              "id": "f06-right-body-03",
+              "index_in_role": 3,
+              "role": "body",
+              "text": "成也把蘭製杖将刺之一瘍医留此余示"
+            },
+            {
+              "id": "f06-right-body-04",
+              "index_in_role": 4,
+              "role": "body",
+              "text": "可刺之寸餘膿血如濁淋溝出内使服活"
+            },
+            {
+              "id": "f06-right-body-05",
+              "index_in_role": 5,
+              "role": "body",
+              "text": "血散瘀湯外傅透雲膏膿滅而後轉使服"
+            },
+            {
+              "id": "f06-right-body-06",
+              "index_in_role": 6,
+              "role": "body",
+              "text": "十全大補湯月餘而全愈"
+            },
+            {
+              "id": "f06-right-red_head_note-01",
+              "index_in_role": 1,
+              "role": "red_head_note",
+              "text": "蘭製杖ト云フ智玄何"
+            },
+            {
+              "id": "f06-right-red_head_note-02",
+              "index_in_role": 2,
+              "role": "red_head_note",
+              "text": "ノ書ニ出ルヤ"
+            },
+            {
+              "id": "f06-right-red_head_note-03",
+              "index_in_role": 3,
+              "role": "red_head_note",
+              "text": "蓋就柳葉鍼"
+            },
+            {
+              "id": "f06-right-red_head_note-04",
+              "index_in_role": 4,
+              "role": "red_head_note",
+              "text": "□ンセツカ"
+            },
+            {
+              "id": "f06-right-red_inline-01",
+              "index_in_role": 1,
+              "role": "red_inline",
+              "text": "聲"
+            },
+            {
+              "id": "f06-right-red_inline-02",
+              "index_in_role": 2,
+              "role": "red_inline",
+              "text": "之"
+            },
+            {
+              "id": "f06-right-red_inline-03",
+              "index_in_role": 3,
+              "role": "red_inline",
+              "text": "流"
+            },
+            {
+              "id": "f06-right-red_inline-04",
+              "index_in_role": 4,
+              "role": "red_inline",
+              "text": "痛卻"
+            },
+            {
+              "id": "f06-right-red_inline-05",
+              "index_in_role": 5,
+              "role": "red_inline",
+              "text": "雖然"
+            },
+            {
+              "id": "f06-right-red_inline-06",
+              "index_in_role": 6,
+              "role": "red_inline",
+              "text": "膿或滿"
+            },
+            {
+              "id": "f06-right-red_inline-07",
+              "index_in_role": 7,
+              "role": "red_inline",
+              "text": "内不刺"
+            },
+            {
+              "id": "f06-right-red_inline-08",
+              "index_in_role": 8,
+              "role": "red_inline",
+              "text": "不利於"
+            },
+            {
+              "id": "f06-right-red_inline-09",
+              "index_in_role": 9,
+              "role": "red_inline",
+              "text": "也"
+            },
+            {
+              "id": "f06-right-red_comment-01",
+              "index_in_role": 1,
+              "role": "red_comment",
+              "text": "腸癰有二途用大黃牡丹湯等破血下膿愈者是腸内生"
+            },
+            {
+              "id": "f06-right-red_comment-02",
+              "index_in_role": 2,
+              "role": "red_comment",
+              "text": "瘍也外腫焮熱刺之治者此腸外釀膿也施治者必先"
+            },
+            {
+              "id": "f06-right-red_comment-03",
+              "index_in_role": 3,
+              "role": "red_comment",
+              "text": "辨其來由二途判然而後行術可此篇前後之按亦屬"
+            },
+            {
+              "id": "f06-right-red_comment-04",
+              "index_in_role": 4,
+              "role": "red_comment",
+              "text": "内外治法已故附言之"
+            }
+          ],
+          "notes": [
+            "body_red"
+          ]
+        },
+        {
+          "side": "left",
+          "units": [
+            {
+              "id": "f06-left-body-01",
+              "index_in_role": 1,
+              "role": "body",
+              "text": "治有表裡先後辨"
+            },
+            {
+              "id": "f06-left-body-02",
+              "index_in_role": 2,
+              "role": "body",
+              "text": "夫医之用藥猶將之用兵攻其可攻補其"
+            },
+            {
+              "id": "f06-left-body-03",
+              "index_in_role": 3,
+              "role": "body",
+              "text": "可補進退緩急臨機應變詳察病情而後"
+            },
+            {
+              "id": "f06-left-body-04",
+              "index_in_role": 4,
+              "role": "body",
+              "text": "從其宜是如將之用兵也今夫治有表裡"
+            },
+            {
+              "id": "f06-left-body-05",
+              "index_in_role": 5,
+              "role": "body",
+              "text": "先後之別有先救表後救裡法何經曰太"
+            },
+            {
+              "id": "f06-left-body-06",
+              "index_in_role": 6,
+              "role": "body",
+              "text": "陽病外症未解不可下々之為逆可見下"
+            },
+            {
+              "id": "f06-left-body-07",
+              "index_in_role": 7,
+              "role": "body",
+              "text": "之為逆者言非其道也外症未解之時假"
+            },
+            {
+              "id": "f06-left-body-08",
+              "index_in_role": 8,
+              "role": "body",
+              "text": "令雖有可下之証容易不可下也若欲下"
+            },
+            {
+              "id": "f06-left-body-09",
+              "index_in_role": 9,
+              "role": "body",
+              "text": "之欲與大承氣當先與小承氣探試之是"
+            },
+            {
+              "id": "f06-left-body-10",
+              "index_in_role": 10,
+              "role": "body",
+              "text": "則仲景氏之深旨也經〔缺損〕先救裡後"
+            },
+            {
+              "id": "f06-left-red_inline-01",
+              "index_in_role": 1,
+              "role": "red_inline",
+              "text": "猶"
+            },
+            {
+              "id": "f06-left-red_inline-02",
+              "index_in_role": 2,
+              "role": "red_inline",
+              "text": "之"
+            },
+            {
+              "id": "f06-left-red_inline-03",
+              "index_in_role": 3,
+              "role": "red_inline",
+              "text": "得"
+            }
+          ],
+          "notes": [
+            "body_red"
+          ]
+        }
+      ]
+    },
+    {
+      "image": 7,
+      "label": "7",
+      "id": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page7",
+      "sha256": "731b09b0ec70faf7c4a5d55ba348ee4c1c868083adf6cafe257477f3a3ed5d44",
+      "locator": "https://iiif.lib.keio.ac.jp/FJK/F-i-1/pdf/F-i-1.pdf#page=7",
+      "note": "右十正文欄、朱句讀及朱尾批；左三正文欄、六朱批欄接次頁",
+      "surfaces": [
+        {
+          "side": "right",
+          "units": [
+            {
+              "id": "f07-right-body-01",
+              "index_in_role": 1,
+              "role": "body",
+              "text": "救表法何傷寒医下之續〔缺損〕下清穀不"
+            },
+            {
+              "id": "f07-right-body-02",
+              "index_in_role": 2,
+              "role": "body",
+              "text": "止身疼痛者急可救裡後身疼痛清便自"
+            },
+            {
+              "id": "f07-right-body-03",
+              "index_in_role": 3,
+              "role": "body",
+              "text": "調者急可救表救裡宜四逆湯救表宜桂"
+            },
+            {
+              "id": "f07-right-body-04",
+              "index_in_role": 4,
+              "role": "body",
+              "text": "枝湯大抵有表裡症者先救表後救裡此"
+            },
+            {
+              "id": "f07-right-body-05",
+              "index_in_role": 5,
+              "role": "body",
+              "text": "則反之此無佗下利清穀此之他証則最"
+            },
+            {
+              "id": "f07-right-body-06",
+              "index_in_role": 6,
+              "role": "body",
+              "text": "急劇故先救其急後其緩也則云下利清"
+            },
+            {
+              "id": "f07-right-body-07",
+              "index_in_role": 7,
+              "role": "body",
+              "text": "穀不可攻表汗出必脹滿是則誤治所致"
+            },
+            {
+              "id": "f07-right-body-08",
+              "index_in_role": 8,
+              "role": "body",
+              "text": "為医者不可不識也楊氏亦云予治病如"
+            },
+            {
+              "id": "f07-right-body-09",
+              "index_in_role": 9,
+              "role": "body",
+              "text": "奕碁當先救急々者何救其重略其輕也"
+            },
+            {
+              "id": "f07-right-body-10",
+              "index_in_role": 10,
+              "role": "body",
+              "text": "又金匱云夫病痼疾加以卒病先治卒病"
+            },
+            {
+              "id": "f07-right-red_inline-01",
+              "index_in_role": 1,
+              "role": "red_inline",
+              "text": "為危"
+            }
+          ],
+          "notes": [
+            "body_red"
+          ]
+        },
+        {
+          "side": "left",
+          "units": [
+            {
+              "id": "f07-left-body-01",
+              "index_in_role": 1,
+              "role": "body",
+              "text": "後治痼疾由是觀之有表裡證者先救其"
+            },
+            {
+              "id": "f07-left-body-02",
+              "index_in_role": 2,
+              "role": "body",
+              "text": "急後其緩諦矣若誤失表裡先後之機毫"
+            },
+            {
+              "id": "f07-left-body-03",
+              "index_in_role": 3,
+              "role": "body",
+              "text": "釐之差千里之謬學者當詳審焉"
+            },
+            {
+              "id": "f07-left-red_comment-01",
+              "index_in_role": 1,
+              "role": "red_comment",
+              "text": "文簡意明篇中之上乘"
+            },
+            {
+              "id": "f07-left-red_comment-02",
+              "index_in_role": 2,
+              "role": "red_comment",
+              "text": "我等醫得此書者欲使蒼生被我仁心乎當時庸倉"
+            },
+            {
+              "id": "f07-left-red_comment-03",
+              "index_in_role": 3,
+              "role": "red_comment",
+              "text": "林請看牆外一方人此予素志也而當時窮留身於"
+            },
+            {
+              "id": "f07-left-red_comment-04",
+              "index_in_role": 4,
+              "role": "red_comment",
+              "text": "一室隔風埃中未得挾羽翩達八表是以素願挫折學"
+            },
+            {
+              "id": "f07-left-red_comment-05",
+              "index_in_role": 5,
+              "role": "red_comment",
+              "text": "業就廢古人曰少年太弟一生悔於予有是矣如手青"
+            },
+            {
+              "id": "f07-left-red_comment-06",
+              "index_in_role": 6,
+              "role": "red_comment",
+              "text": "年立志態々就學以莫有外事〔缺損〕然有不"
+            }
+          ],
+          "notes": [
+            "body_red"
+          ]
+        }
+      ]
+    },
+    {
+      "image": 8,
+      "label": "8",
+      "id": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page8",
+      "sha256": "cef858a6b70cacac5cc31fef9e2c7c4adf0fa59bedf0a5573f25228e3da005f8",
+      "locator": "https://iiif.lib.keio.ac.jp/FJK/F-i-1/pdf/F-i-1.pdf#page=8",
+      "note": "右五朱批欄、署記與極淡邊字；左無書寫區",
+      "surfaces": [
+        {
+          "side": "right",
+          "units": [
+            {
+              "id": "f08-right-red_comment-01",
+              "index_in_role": 1,
+              "role": "red_comment",
+              "text": "可語之勢其為可談耳雖然〔缺損〕一介"
+            },
+            {
+              "id": "f08-right-red_comment-02",
+              "index_in_role": 2,
+              "role": "red_comment",
+              "text": "忽變白頭惟日夜相勉不息其餘在可顧而已此予之所"
+            },
+            {
+              "id": "f08-right-red_comment-03",
+              "index_in_role": 3,
+              "role": "red_comment",
+              "text": "警予併以自鑑矣燈下一讀書之識語"
+            },
+            {
+              "id": "f08-right-red_comment-04",
+              "index_in_role": 4,
+              "role": "red_comment",
+              "text": "安政六年仲□十有七日"
+            },
+            {
+              "id": "f08-right-red_comment-05",
+              "index_in_role": 5,
+              "role": "red_comment",
+              "text": "桃蹊迂人妄批"
+            },
+            {
+              "id": "f08-right-red_inline-01",
+              "index_in_role": 1,
+              "role": "red_inline",
+              "text": "不學將何如"
+            },
+            {
+              "id": "f08-right-red_inline-02",
+              "index_in_role": 2,
+              "role": "red_inline",
+              "text": "之為"
+            }
+          ],
+          "notes": [
+            "red_comment"
+          ]
+        },
+        {
+          "side": "left",
+          "units": [],
+          "notes": [
+            "blank"
+          ]
+        }
+      ]
+    },
+    {
+      "image": 9,
+      "label": "9",
+      "id": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page9",
+      "sha256": "c90c59d250e1c22205850a8e7580fa6fefc15bff5b5547e68ba3e393136ad885",
+      "locator": "https://iiif.lib.keio.ac.jp/FJK/F-i-1/pdf/F-i-1.pdf#page=9",
+      "note": "素背封、館方水印",
+      "surfaces": [
+        {
+          "side": "right",
+          "units": [],
+          "notes": [
+            "back_cover"
+          ]
+        },
+        {
+          "side": "left",
+          "units": [],
+          "notes": [
+            "background"
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "unit_id": "f02-left-inner_annotation-01",
+      "begin": 0,
+      "end": 1,
+      "span": "□",
+      "reason": "illegible",
+      "review_status": "open"
+    },
+    {
+      "unit_id": "f02-left-inner_annotation-01",
+      "begin": 3,
+      "end": 4,
+      "span": "□",
+      "reason": "illegible",
+      "review_status": "open"
+    },
+    {
+      "unit_id": "f03-left-body-10",
+      "begin": 10,
+      "end": 11,
+      "span": "□",
+      "reason": "illegible",
+      "review_status": "open"
+    },
+    {
+      "unit_id": "f03-left-body-10",
+      "begin": 11,
+      "end": 15,
+      "span": "〔缺損〕",
+      "reason": "physical_damage",
+      "review_status": "open"
+    },
+    {
+      "unit_id": "f03-left-red_head_note-01",
+      "begin": 7,
+      "end": 9,
+      "span": "□□",
+      "reason": "illegible",
+      "review_status": "open"
+    },
+    {
+      "unit_id": "f04-right-body-01",
+      "begin": 9,
+      "end": 13,
+      "span": "〔缺損〕",
+      "reason": "physical_damage",
+      "review_status": "open"
+    },
+    {
+      "unit_id": "f05-left-body-05",
+      "begin": 9,
+      "end": 10,
+      "span": "□",
+      "reason": "illegible",
+      "review_status": "open"
+    },
+    {
+      "unit_id": "f06-right-body-01",
+      "begin": 10,
+      "end": 11,
+      "span": "□",
+      "reason": "illegible",
+      "review_status": "open"
+    },
+    {
+      "unit_id": "f06-left-body-10",
+      "begin": 9,
+      "end": 13,
+      "span": "〔缺損〕",
+      "reason": "physical_damage",
+      "review_status": "open"
+    },
+    {
+      "unit_id": "f07-right-body-01",
+      "begin": 10,
+      "end": 14,
+      "span": "〔缺損〕",
+      "reason": "physical_damage",
+      "review_status": "open"
+    },
+    {
+      "unit_id": "f04-right-black_head_note-01",
+      "begin": 7,
+      "end": 9,
+      "span": "□□",
+      "reason": "illegible",
+      "review_status": "open"
+    },
+    {
+      "unit_id": "f04-right-black_head_note-02",
+      "begin": 7,
+      "end": 8,
+      "span": "□",
+      "reason": "illegible",
+      "review_status": "open"
+    },
+    {
+      "unit_id": "f04-right-black_head_note-03",
+      "begin": 0,
+      "end": 2,
+      "span": "□□",
+      "reason": "illegible",
+      "review_status": "open"
+    },
+    {
+      "unit_id": "f04-right-black_head_note-03",
+      "begin": 5,
+      "end": 6,
+      "span": "□",
+      "reason": "illegible",
+      "review_status": "open"
+    },
+    {
+      "unit_id": "f04-right-black_head_note-04",
+      "begin": 0,
+      "end": 3,
+      "span": "□□□",
+      "reason": "illegible",
+      "review_status": "open"
+    },
+    {
+      "unit_id": "f04-right-black_head_note-04",
+      "begin": 4,
+      "end": 5,
+      "span": "□",
+      "reason": "illegible",
+      "review_status": "open"
+    },
+    {
+      "unit_id": "f04-right-black_head_note-05",
+      "begin": 2,
+      "end": 3,
+      "span": "□",
+      "reason": "illegible",
+      "review_status": "open"
+    },
+    {
+      "unit_id": "f04-right-black_head_note-05",
+      "begin": 4,
+      "end": 6,
+      "span": "□□",
+      "reason": "illegible",
+      "review_status": "open"
+    },
+    {
+      "unit_id": "f04-right-black_head_note-06",
+      "begin": 1,
+      "end": 3,
+      "span": "□□",
+      "reason": "illegible",
+      "review_status": "open"
+    },
+    {
+      "unit_id": "f04-left-red_inline-02",
+      "begin": 2,
+      "end": 3,
+      "span": "□",
+      "reason": "illegible",
+      "review_status": "open"
+    },
+    {
+      "unit_id": "f04-left-red_inline-02",
+      "begin": 6,
+      "end": 7,
+      "span": "□",
+      "reason": "illegible",
+      "review_status": "open"
+    },
+    {
+      "unit_id": "f04-left-red_comment-03",
+      "begin": 13,
+      "end": 17,
+      "span": "〔缺損〕",
+      "reason": "physical_damage",
+      "review_status": "open"
+    },
+    {
+      "unit_id": "f05-right-red_comment-01",
+      "begin": 12,
+      "end": 16,
+      "span": "〔缺損〕",
+      "reason": "physical_damage",
+      "review_status": "open"
+    },
+    {
+      "unit_id": "f06-right-red_head_note-04",
+      "begin": 0,
+      "end": 1,
+      "span": "□",
+      "reason": "illegible",
+      "review_status": "open"
+    },
+    {
+      "unit_id": "f07-left-red_comment-06",
+      "begin": 12,
+      "end": 16,
+      "span": "〔缺損〕",
+      "reason": "physical_damage",
+      "review_status": "open"
+    },
+    {
+      "unit_id": "f08-right-red_comment-01",
+      "begin": 11,
+      "end": 15,
+      "span": "〔缺損〕",
+      "reason": "physical_damage",
+      "review_status": "open"
+    },
+    {
+      "unit_id": "f08-right-red_comment-04",
+      "begin": 5,
+      "end": 6,
+      "span": "□",
+      "reason": "illegible",
+      "review_status": "open",
+      "reading_candidates": [
+        "夏",
+        "冬"
+      ],
+      "note": "初讀夏，另一獨立圖像觀察暫讀冬，保留雙候選。"
+    }
+  ],
+  "annotation_events": [
+    {
+      "id": "red-001",
+      "frame": 3,
+      "side": "left",
+      "layer": "manuscript_red_ink",
+      "target_unit_id": "f03-left-body-02",
+      "mark": "points",
+      "anchor_mode": "text_neighborhood_in_writing_column",
+      "anchors": [
+        {
+          "text": "之秋",
+          "offset_candidates": [
+            [
+              4,
+              6
+            ]
+          ]
+        }
+      ],
+      "note": "朱圈在秋旁"
+    },
+    {
+      "id": "red-002",
+      "frame": 3,
+      "side": "left",
+      "layer": "manuscript_red_ink",
+      "target_unit_id": "f03-left-body-02",
+      "mark": "addition",
+      "anchor_mode": "text_neighborhood_in_writing_column",
+      "anchors": [
+        {
+          "text": "流布",
+          "offset_candidates": [
+            [
+              14,
+              16
+            ]
+          ]
+        }
+      ],
+      "note": "「流」右側朱書「行」，附近有墨／朱痕；未合併為正文"
+    },
+    {
+      "id": "red-003",
+      "frame": 3,
+      "side": "left",
+      "layer": "manuscript_red_ink",
+      "target_unit_id": "f03-left-body-03",
+      "mark": "points",
+      "anchor_mode": "text_neighborhood_in_writing_column",
+      "anchors": [
+        {
+          "text": "頻數",
+          "offset_candidates": [
+            [
+              6,
+              8
+            ]
+          ]
+        },
+        {
+          "text": "水飲",
+          "offset_candidates": [
+            [
+              11,
+              13
+            ]
+          ]
+        }
+      ],
+      "note": "朱圈"
+    },
+    {
+      "id": "red-004",
+      "frame": 3,
+      "side": "left",
+      "layer": "manuscript_red_ink",
+      "target_unit_id": "f03-left-body-04",
+      "mark": "points",
+      "anchor_mode": "text_neighborhood_in_writing_column",
+      "anchors": [
+        {
+          "text": "聲",
+          "offset_candidates": [
+            [
+              0,
+              1
+            ]
+          ]
+        },
+        {
+          "text": "被刺",
+          "offset_candidates": [
+            [
+              5,
+              7
+            ]
+          ]
+        },
+        {
+          "text": "厥冷",
+          "offset_candidates": [
+            [
+              9,
+              11
+            ]
+          ]
+        },
+        {
+          "text": "煩燥",
+          "offset_candidates": [
+            [
+              11,
+              13
+            ]
+          ]
+        }
+      ],
+      "note": "朱圈"
+    },
+    {
+      "id": "red-005",
+      "frame": 3,
+      "side": "left",
+      "layer": "manuscript_red_ink",
+      "target_unit_id": "f03-left-body-04",
+      "mark": "red_stroke",
+      "anchor_mode": "text_neighborhood_in_writing_column",
+      "anchors": [
+        {
+          "text": "如刀",
+          "offset_candidates": [
+            [
+              3,
+              5
+            ]
+          ]
+        }
+      ],
+      "note": "刀字下段有覆筆，字形與校意尚待判"
+    },
+    {
+      "id": "red-006",
+      "frame": 3,
+      "side": "left",
+      "layer": "manuscript_red_ink",
+      "target_unit_id": "f03-left-body-05",
+      "mark": "points",
+      "anchor_mode": "text_neighborhood_in_writing_column",
+      "anchors": [
+        {
+          "text": "者",
+          "offset_candidates": [
+            [
+              0,
+              1
+            ],
+            [
+              12,
+              13
+            ]
+          ]
+        },
+        {
+          "text": "之糸",
+          "offset_candidates": [
+            [
+              7,
+              9
+            ]
+          ]
+        },
+        {
+          "text": "急劇者",
+          "offset_candidates": [
+            [
+              10,
+              13
+            ]
+          ]
+        }
+      ],
+      "note": "首「者」為開頭字、次「者」以急劇者定位"
+    },
+    {
+      "id": "red-007",
+      "frame": 3,
+      "side": "left",
+      "layer": "manuscript_red_ink",
+      "target_unit_id": "f03-left-body-06",
+      "mark": "points",
+      "anchor_mode": "text_neighborhood_in_writing_column",
+      "anchors": [
+        {
+          "text": "轉筋者",
+          "offset_candidates": [
+            [
+              4,
+              7
+            ]
+          ]
+        },
+        {
+          "text": "煩渇",
+          "offset_candidates": [
+            [
+              10,
+              12
+            ]
+          ]
+        },
+        {
+          "text": "冷水",
+          "offset_candidates": [
+            [
+              14,
+              16
+            ]
+          ]
+        }
+      ],
+      "note": "朱圈"
+    },
+    {
+      "id": "red-008",
+      "frame": 3,
+      "side": "left",
+      "layer": "manuscript_red_ink",
+      "target_unit_id": "f03-left-body-07",
+      "mark": "points",
+      "anchor_mode": "text_neighborhood_in_writing_column",
+      "anchors": [
+        {
+          "text": "入口者",
+          "offset_candidates": [
+            [
+              3,
+              6
+            ]
+          ]
+        },
+        {
+          "text": "白胎者",
+          "offset_candidates": [
+            [
+              10,
+              13
+            ]
+          ]
+        }
+      ],
+      "note": "朱圈"
+    },
+    {
+      "id": "red-009",
+      "frame": 3,
+      "side": "left",
+      "layer": "manuscript_red_ink",
+      "target_unit_id": "f03-left-body-08",
+      "mark": "points",
+      "anchor_mode": "text_neighborhood_in_writing_column",
+      "anchors": [
+        {
+          "text": "不渇者",
+          "offset_candidates": [
+            [
+              3,
+              6
+            ]
+          ]
+        },
+        {
+          "text": "黑舌者",
+          "offset_candidates": [
+            [
+              10,
+              13
+            ]
+          ]
+        },
+        {
+          "text": "乾燥",
+          "offset_candidates": [
+            [
+              14,
+              16
+            ]
+          ]
+        }
+      ],
+      "note": "朱圈"
+    },
+    {
+      "id": "red-010",
+      "frame": 3,
+      "side": "left",
+      "layer": "manuscript_red_ink",
+      "target_unit_id": "f03-left-body-09",
+      "mark": "points",
+      "anchor_mode": "text_neighborhood_in_writing_column",
+      "anchors": [
+        {
+          "text": "滑澤",
+          "offset_candidates": [
+            [
+              1,
+              3
+            ]
+          ]
+        },
+        {
+          "text": "症候",
+          "offset_candidates": [
+            [
+              5,
+              7
+            ]
+          ]
+        },
+        {
+          "text": "万化",
+          "offset_candidates": [
+            [
+              9,
+              11
+            ]
+          ]
+        },
+        {
+          "text": "枚舉",
+          "offset_candidates": [
+            [
+              13,
+              15
+            ]
+          ]
+        }
+      ],
+      "note": "朱圈"
+    },
+    {
+      "id": "red-011",
+      "frame": 3,
+      "side": "left",
+      "layer": "manuscript_red_ink",
+      "target_unit_id": "f03-left-body-10",
+      "mark": "points",
+      "anchor_mode": "text_neighborhood_in_writing_column",
+      "anchors": [
+        {
+          "text": "白虎湯",
+          "offset_candidates": [
+            [
+              2,
+              5
+            ]
+          ]
+        }
+      ],
+      "note": "朱圈；此列中下紙破"
+    },
+    {
+      "id": "red-012",
+      "frame": 4,
+      "side": "right",
+      "layer": "manuscript_red_ink",
+      "target_unit_id": "f04-right-body-01",
+      "mark": "points",
+      "anchor_mode": "text_neighborhood_in_writing_column",
+      "anchors": [
+        {
+          "text": "之輩",
+          "offset_candidates": [
+            [
+              1,
+              3
+            ]
+          ]
+        },
+        {
+          "text": "不減",
+          "offset_candidates": [
+            [
+              5,
+              7
+            ]
+          ]
+        },
+        {
+          "text": "余因思",
+          "offset_candidates": [
+            [
+              13,
+              16
+            ]
+          ]
+        }
+      ],
+      "note": "末圈在「余」上方破損附近，精確落點未明"
+    },
+    {
+      "id": "red-013",
+      "frame": 4,
+      "side": "right",
+      "layer": "manuscript_red_ink",
+      "target_unit_id": "f04-right-body-02",
+      "mark": "points",
+      "anchor_mode": "text_neighborhood_in_writing_column",
+      "anchors": [
+        {
+          "text": "所致也",
+          "offset_candidates": [
+            [
+              5,
+              8
+            ]
+          ]
+        },
+        {
+          "text": "既濟",
+          "offset_candidates": [
+            [
+              10,
+              12
+            ]
+          ]
+        },
+        {
+          "text": "真武",
+          "offset_candidates": [
+            [
+              12,
+              14
+            ]
+          ]
+        }
+      ],
+      "note": "朱圈"
+    },
+    {
+      "id": "red-014",
+      "frame": 4,
+      "side": "right",
+      "layer": "manuscript_red_ink",
+      "target_unit_id": "f04-right-body-03",
+      "mark": "points",
+      "anchor_mode": "text_neighborhood_in_writing_column",
+      "anchors": [
+        {
+          "text": "諸湯",
+          "offset_candidates": [
+            [
+              0,
+              2
+            ]
+          ]
+        },
+        {
+          "text": "寸効",
+          "offset_candidates": [
+            [
+              4,
+              6
+            ]
+          ]
+        },
+        {
+          "text": "泉客者",
+          "offset_candidates": [
+            [
+              8,
+              11
+            ]
+          ]
+        },
+        {
+          "text": "幾千人",
+          "offset_candidates": [
+            [
+              13,
+              16
+            ]
+          ]
+        }
+      ],
+      "note": "朱圈"
+    },
+    {
+      "id": "red-015",
+      "frame": 4,
+      "side": "right",
+      "layer": "manuscript_red_ink",
+      "target_unit_id": "f04-right-body-03",
+      "mark": "interlinear",
+      "anchor_mode": "text_neighborhood_in_writing_column",
+      "anchors": [
+        {
+          "text": "而為泉客者",
+          "offset_candidates": [
+            [
+              6,
+              11
+            ]
+          ]
+        },
+        {
+          "text": "不識幾千人",
+          "offset_candidates": [
+            [
+              11,
+              16
+            ]
+          ]
+        }
+      ],
+      "note": "朱書「死不救」近為泉客者，「數十」近幾千人；保留墨字，校語未採為改字"
+    },
+    {
+      "id": "red-016",
+      "frame": 4,
+      "side": "right",
+      "layer": "manuscript_red_ink",
+      "target_unit_id": "f04-right-body-04",
+      "mark": "red_stroke",
+      "anchor_mode": "text_neighborhood_in_writing_column",
+      "anchors": [
+        {
+          "text": "是歟矣",
+          "offset_candidates": [
+            [
+              5,
+              8
+            ]
+          ]
+        }
+      ],
+      "note": "字間朱、墨重疊，右側見「而已」；勢相連，暫不指定取代跨度"
+    },
+    {
+      "id": "red-017",
+      "frame": 4,
+      "side": "right",
+      "layer": "manuscript_red_ink",
+      "target_unit_id": "f04-right-body-04",
+      "mark": "addition",
+      "anchor_mode": "text_neighborhood_in_writing_column",
+      "anchors": [
+        {
+          "text": "余嘗然",
+          "offset_candidates": [
+            [
+              8,
+              11
+            ]
+          ]
+        }
+      ],
+      "note": "附近見小朱字「因」"
+    },
+    {
+      "id": "red-018",
+      "frame": 4,
+      "side": "right",
+      "layer": "manuscript_red_ink",
+      "target_unit_id": "f04-right-body-04",
+      "mark": "points",
+      "anchor_mode": "text_neighborhood_in_writing_column",
+      "anchors": [
+        {
+          "text": "是歟矣",
+          "offset_candidates": [
+            [
+              5,
+              8
+            ]
+          ]
+        },
+        {
+          "text": "歎息",
+          "offset_candidates": [
+            [
+              11,
+              13
+            ]
+          ]
+        }
+      ],
+      "note": "朱圈"
+    },
+    {
+      "id": "red-019",
+      "frame": 4,
+      "side": "right",
+      "layer": "manuscript_red_ink",
+      "target_unit_id": "f04-right-body-05",
+      "mark": "points",
+      "anchor_mode": "text_neighborhood_in_writing_column",
+      "anchors": [
+        {
+          "text": "寐食",
+          "offset_candidates": [
+            [
+              0,
+              2
+            ]
+          ]
+        },
+        {
+          "text": "數囘",
+          "offset_candidates": [
+            [
+              4,
+              6
+            ]
+          ]
+        },
+        {
+          "text": "良策",
+          "offset_candidates": [
+            [
+              7,
+              9
+            ]
+          ]
+        }
+      ],
+      "note": "朱圈"
+    },
+    {
+      "id": "red-020",
+      "frame": 4,
+      "side": "right",
+      "layer": "manuscript_red_ink",
+      "target_unit_id": "f04-right-body-05",
+      "mark": "red_stroke",
+      "anchor_mode": "text_neighborhood_in_writing_column",
+      "anchors": [
+        {
+          "text": "寐食",
+          "offset_candidates": [
+            [
+              0,
+              2
+            ]
+          ]
+        },
+        {
+          "text": "書櫃所",
+          "offset_candidates": [
+            [
+              13,
+              16
+            ]
+          ]
+        }
+      ],
+      "note": "寐、書／櫃字區皆見朱覆筆"
+    },
+    {
+      "id": "red-021",
+      "frame": 4,
+      "side": "right",
+      "layer": "manuscript_red_ink",
+      "target_unit_id": "f04-right-body-06",
+      "mark": "points",
+      "anchor_mode": "text_neighborhood_in_writing_column",
+      "anchors": [
+        {
+          "text": "玉衡",
+          "offset_candidates": [
+            [
+              4,
+              6
+            ]
+          ]
+        },
+        {
+          "text": "至寶飲",
+          "offset_candidates": [
+            [
+              12,
+              15
+            ]
+          ]
+        }
+      ],
+      "note": "朱圈"
+    },
+    {
+      "id": "red-022",
+      "frame": 4,
+      "side": "right",
+      "layer": "manuscript_red_ink",
+      "target_unit_id": "f04-right-body-06",
+      "mark": "red_stroke",
+      "anchor_mode": "text_neighborhood_in_writing_column",
+      "anchors": [
+        {
+          "text": "藏之",
+          "offset_candidates": [
+            [
+              0,
+              2
+            ]
+          ]
+        },
+        {
+          "text": "玉衡書",
+          "offset_candidates": [
+            [
+              4,
+              7
+            ]
+          ]
+        }
+      ],
+      "note": "朱覆筆"
+    },
+    {
+      "id": "red-023",
+      "frame": 4,
+      "side": "right",
+      "layer": "manuscript_red_ink",
+      "target_unit_id": "f04-right-body-07",
+      "mark": "points",
+      "anchor_mode": "text_neighborhood_in_writing_column",
+      "anchors": [
+        {
+          "text": "絡之術",
+          "offset_candidates": [
+            [
+              1,
+              4
+            ]
+          ]
+        },
+        {
+          "text": "試施之",
+          "offset_candidates": [
+            [
+              4,
+              7
+            ]
+          ]
+        },
+        {
+          "text": "有効",
+          "offset_candidates": [
+            [
+              8,
+              10
+            ]
+          ]
+        }
+      ],
+      "note": "朱圈"
+    },
+    {
+      "id": "red-024",
+      "frame": 4,
+      "side": "right",
+      "layer": "manuscript_red_ink",
+      "target_unit_id": "f04-right-body-07",
+      "mark": "addition",
+      "anchor_mode": "text_neighborhood_in_writing_column",
+      "anchors": [
+        {
+          "text": "覺有効",
+          "offset_candidates": [
+            [
+              7,
+              10
+            ]
+          ]
+        }
+      ],
+      "note": "右側小朱字近「覺」讀稍（待核）"
+    },
+    {
+      "id": "red-025",
+      "frame": 4,
+      "side": "right",
+      "layer": "manuscript_red_ink",
+      "target_unit_id": "f04-right-body-07",
+      "mark": "red_stroke",
+      "anchor_mode": "text_neighborhood_in_writing_column",
+      "anchors": [
+        {
+          "text": "効驗雖然",
+          "offset_candidates": [
+            [
+              9,
+              13
+            ]
+          ]
+        }
+      ],
+      "note": "驗、雖之交界朱斜筆貫過"
+    },
+    {
+      "id": "red-026",
+      "frame": 4,
+      "side": "right",
+      "layer": "manuscript_red_ink",
+      "target_unit_id": "f04-right-body-08",
+      "mark": "points",
+      "anchor_mode": "text_neighborhood_in_writing_column",
+      "anchors": [
+        {
+          "text": "挽囘",
+          "offset_candidates": [
+            [
+              1,
+              3
+            ]
+          ]
+        },
+        {
+          "text": "此窮矣",
+          "offset_candidates": [
+            [
+              7,
+              10
+            ]
+          ]
+        }
+      ],
+      "note": "朱圈"
+    },
+    {
+      "id": "red-027",
+      "frame": 4,
+      "side": "right",
+      "layer": "manuscript_red_ink",
+      "target_unit_id": "f04-right-body-08",
+      "mark": "interlinear",
+      "anchor_mode": "text_neighborhood_in_writing_column",
+      "anchors": [
+        {
+          "text": "因問於",
+          "offset_candidates": [
+            [
+              10,
+              13
+            ]
+          ]
+        }
+      ],
+      "note": "近「問」「於」間朱字初讀「問之」，字序關聯待核"
+    },
+    {
+      "id": "red-028",
+      "frame": 4,
+      "side": "right",
+      "layer": "manuscript_red_ink",
+      "target_unit_id": "f04-right-body-09",
+      "mark": "points",
+      "anchor_mode": "text_neighborhood_in_writing_column",
+      "anchors": [
+        {
+          "text": "尾先生",
+          "offset_candidates": [
+            [
+              0,
+              3
+            ]
+          ]
+        },
+        {
+          "text": "不言",
+          "offset_candidates": [
+            [
+              7,
+              9
+            ]
+          ]
+        },
+        {
+          "text": "余曰",
+          "offset_candidates": [
+            [
+              12,
+              14
+            ]
+          ]
+        }
+      ],
+      "note": "朱圈"
+    },
+    {
+      "id": "red-029",
+      "frame": 4,
+      "side": "right",
+      "layer": "manuscript_red_ink",
+      "target_unit_id": "f04-right-body-10",
+      "mark": "points",
+      "anchor_mode": "text_neighborhood_in_writing_column",
+      "anchors": [
+        {
+          "text": "水飲",
+          "offset_candidates": [
+            [
+              2,
+              4
+            ]
+          ]
+        },
+        {
+          "text": "數行",
+          "offset_candidates": [
+            [
+              7,
+              9
+            ]
+          ]
+        },
+        {
+          "text": "煩渇者",
+          "offset_candidates": [
+            [
+              9,
+              12
+            ]
+          ]
+        }
+      ],
+      "note": "朱圈"
+    },
+    {
+      "id": "red-030",
+      "frame": 4,
+      "side": "left",
+      "layer": "manuscript_red_ink",
+      "target_unit_id": "f04-left-body-01",
+      "mark": "points",
+      "anchor_mode": "text_neighborhood_in_writing_column",
+      "anchors": [
+        {
+          "text": "湯或",
+          "offset_candidates": [
+            [
+              0,
+              2
+            ]
+          ]
+        },
+        {
+          "text": "半夏瀉心湯",
+          "offset_candidates": [
+            [
+              4,
+              9
+            ]
+          ]
+        },
+        {
+          "text": "可也",
+          "offset_candidates": [
+            [
+              9,
+              11
+            ]
+          ]
+        },
+        {
+          "text": "既吐",
+          "offset_candidates": [
+            [
+              12,
+              14
+            ]
+          ]
+        },
+        {
+          "text": "煩燥",
+          "offset_candidates": [
+            [
+              14,
+              16
+            ]
+          ]
+        }
+      ],
+      "note": "首圈在首字「湯」旁，後圈在心湯末；末點在燥旁"
+    },
+    {
+      "id": "red-031",
+      "frame": 4,
+      "side": "left",
+      "layer": "manuscript_red_ink",
+      "target_unit_id": "f04-left-body-02",
+      "mark": "points",
+      "anchor_mode": "text_neighborhood_in_writing_column",
+      "anchors": [
+        {
+          "text": "厥冷者",
+          "offset_candidates": [
+            [
+              2,
+              5
+            ]
+          ]
+        },
+        {
+          "text": "茱萸湯",
+          "offset_candidates": [
+            [
+              6,
+              9
+            ]
+          ]
+        },
+        {
+          "text": "黃連湯",
+          "offset_candidates": [
+            [
+              12,
+              15
+            ]
+          ]
+        }
+      ],
+      "note": "朱圈"
+    },
+    {
+      "id": "red-032",
+      "frame": 4,
+      "side": "left",
+      "layer": "manuscript_red_ink",
+      "target_unit_id": "f04-left-body-02",
+      "mark": "interlinear",
+      "anchor_mode": "text_neighborhood_in_writing_column",
+      "anchors": [
+        {
+          "text": "或從症黃連湯",
+          "offset_candidates": [
+            [
+              9,
+              15
+            ]
+          ]
+        }
+      ],
+      "note": "近「症」朱書「其所現」；另有長插批向框下延伸"
+    },
+    {
+      "id": "red-033",
+      "frame": 4,
+      "side": "left",
+      "layer": "manuscript_red_ink",
+      "target_unit_id": "f04-left-body-03",
+      "mark": "points",
+      "anchor_mode": "text_neighborhood_in_writing_column",
+      "anchors": [
+        {
+          "text": "亦可也",
+          "offset_candidates": [
+            [
+              5,
+              8
+            ]
+          ]
+        },
+        {
+          "text": "以此方",
+          "offset_candidates": [
+            [
+              11,
+              14
+            ]
+          ]
+        }
+      ],
+      "note": "朱圈；「此」旁朱線起"
+    },
+    {
+      "id": "red-034",
+      "frame": 4,
+      "side": "left",
+      "layer": "manuscript_red_ink",
+      "target_unit_id": "f04-left-body-03",
+      "mark": "interlinear",
+      "anchor_mode": "text_neighborhood_in_writing_column",
+      "anchors": [
+        {
+          "text": "以此方與此",
+          "offset_candidates": [
+            [
+              11,
+              16
+            ]
+          ]
+        }
+      ],
+      "note": "兩「此」附近見小朱批及串線，關係待核"
+    },
+    {
+      "id": "red-035",
+      "frame": 4,
+      "side": "left",
+      "layer": "manuscript_red_ink",
+      "target_unit_id": "f04-left-body-04",
+      "mark": "red_enclosure",
+      "anchor_mode": "text_neighborhood_in_writing_column",
+      "anchors": [
+        {
+          "text": "奏効嘻嗟是以",
+          "offset_candidates": [
+            [
+              1,
+              7
+            ]
+          ]
+        }
+      ],
+      "note": "「嘻嗟」及上下附近有連續圈線和飄書；圈括範圍約在此"
+    },
+    {
+      "id": "red-036",
+      "frame": 4,
+      "side": "left",
+      "layer": "manuscript_red_ink",
+      "target_unit_id": "f04-left-body-04",
+      "mark": "points",
+      "anchor_mode": "text_neighborhood_in_writing_column",
+      "anchors": [
+        {
+          "text": "篤之者",
+          "offset_candidates": [
+            [
+              9,
+              12
+            ]
+          ]
+        },
+        {
+          "text": "數十許人",
+          "offset_candidates": [
+            [
+              12,
+              16
+            ]
+          ]
+        }
+      ],
+      "note": "朱圈"
+    },
+    {
+      "id": "red-037",
+      "frame": 4,
+      "side": "left",
+      "layer": "manuscript_red_ink",
+      "target_unit_id": "f04-left-body-05",
+      "mark": "points",
+      "anchor_mode": "text_neighborhood_in_writing_column",
+      "anchors": [
+        {
+          "text": "刀圭之餘",
+          "offset_candidates": [
+            [
+              4,
+              8
+            ]
+          ]
+        }
+      ],
+      "note": "朱圈"
+    },
+    {
+      "id": "red-038",
+      "frame": 4,
+      "side": "left",
+      "layer": "manuscript_red_ink",
+      "target_unit_id": "f04-left-body-05",
+      "mark": "red_stroke",
+      "anchor_mode": "text_neighborhood_in_writing_column",
+      "anchors": [
+        {
+          "text": "世俗述其端",
+          "offset_candidates": [
+            [
+              10,
+              15
+            ]
+          ]
+        }
+      ],
+      "note": "「世」旁插朱「書之」，下部有斜刪線"
+    },
+    {
+      "id": "red-039",
+      "frame": 4,
+      "side": "left",
+      "layer": "manuscript_red_ink",
+      "target_unit_id": "f04-left-body-06",
+      "mark": "points",
+      "anchor_mode": "text_neighborhood_in_writing_column",
+      "anchors": [
+        {
+          "text": "同志",
+          "offset_candidates": [
+            [
+              1,
+              3
+            ]
+          ]
+        }
+      ],
+      "note": "朱圈"
+    },
+    {
+      "id": "red-040",
+      "frame": 4,
+      "side": "left",
+      "layer": "manuscript_red_ink",
+      "target_unit_id": "f04-left-body-05",
+      "mark": "head_note_relation",
+      "anchor_mode": "text_neighborhood_in_writing_column",
+      "anchors": [
+        {
+          "text": "雀躍",
+          "offset_candidates": [
+            [
+              2,
+              4
+            ]
+          ]
+        }
+      ],
+      "note": "上方朱書「雀躍二字置之亦可」，低位墨點未辨"
+    },
+    {
+      "id": "red-041",
+      "frame": 5,
+      "side": "left",
+      "layer": "manuscript_red_ink",
+      "target_unit_id": "f05-left-body-01",
+      "mark": "points",
+      "anchor_mode": "text_neighborhood_in_writing_column",
+      "anchors": [
+        {
+          "text": "不日",
+          "offset_candidates": [
+            [
+              4,
+              6
+            ]
+          ]
+        },
+        {
+          "text": "成塊",
+          "offset_candidates": [
+            [
+              8,
+              10
+            ]
+          ]
+        },
+        {
+          "text": "大如臂",
+          "offset_candidates": [
+            [
+              10,
+              13
+            ]
+          ]
+        }
+      ],
+      "note": "朱圈"
+    },
+    {
+      "id": "red-042",
+      "frame": 5,
+      "side": "left",
+      "layer": "manuscript_red_ink",
+      "target_unit_id": "f05-left-body-02",
+      "mark": "points",
+      "anchor_mode": "text_neighborhood_in_writing_column",
+      "anchors": [
+        {
+          "text": "淋自",
+          "offset_candidates": [
+            [
+              0,
+              2
+            ]
+          ]
+        },
+        {
+          "text": "不能前",
+          "offset_candidates": [
+            [
+              2,
+              5
+            ]
+          ]
+        },
+        {
+          "text": "共秘",
+          "offset_candidates": [
+            [
+              13,
+              15
+            ]
+          ]
+        }
+      ],
+      "note": "前二圈各落淋、前旁"
+    },
+    {
+      "id": "red-043",
+      "frame": 5,
+      "side": "left",
+      "layer": "manuscript_red_ink",
+      "target_unit_id": "f05-left-body-02",
+      "mark": "interlinear",
+      "anchor_mode": "text_neighborhood_in_writing_column",
+      "anchors": [
+        {
+          "text": "淋自不能前又不能起卧",
+          "offset_candidates": [
+            [
+              0,
+              10
+            ]
+          ]
+        }
+      ],
+      "note": "朱書「起卧」「困頓」近淋／自，另一「起卧」區有覆朱；動線待核"
+    },
+    {
+      "id": "red-044",
+      "frame": 5,
+      "side": "left",
+      "layer": "manuscript_red_ink",
+      "target_unit_id": "f05-left-body-03",
+      "mark": "points",
+      "anchor_mode": "text_neighborhood_in_writing_column",
+      "anchors": [
+        {
+          "text": "調理",
+          "offset_candidates": [
+            [
+              4,
+              6
+            ]
+          ]
+        },
+        {
+          "text": "日重",
+          "offset_candidates": [
+            [
+              8,
+              10
+            ]
+          ]
+        },
+        {
+          "text": "診之",
+          "offset_candidates": [
+            [
+              12,
+              14
+            ]
+          ]
+        }
+      ],
+      "note": "朱圈"
+    },
+    {
+      "id": "red-045",
+      "frame": 5,
+      "side": "left",
+      "layer": "manuscript_red_ink",
+      "target_unit_id": "f05-left-body-03",
+      "mark": "addition",
+      "anchor_mode": "text_neighborhood_in_writing_column",
+      "anchors": [
+        {
+          "text": "其病日重",
+          "offset_candidates": [
+            [
+              6,
+              10
+            ]
+          ]
+        }
+      ],
+      "note": "「日」旁朱書「益」；「理其」間見朱覆筆"
+    },
+    {
+      "id": "red-046",
+      "frame": 5,
+      "side": "left",
+      "layer": "manuscript_red_ink",
+      "target_unit_id": "f05-left-body-04",
+      "mark": "points",
+      "anchor_mode": "text_neighborhood_in_writing_column",
+      "anchors": [
+        {
+          "text": "有力",
+          "offset_candidates": [
+            [
+              2,
+              4
+            ]
+          ]
+        },
+        {
+          "text": "余曰",
+          "offset_candidates": [
+            [
+              4,
+              6
+            ]
+          ]
+        },
+        {
+          "text": "血塊",
+          "offset_candidates": [
+            [
+              7,
+              9
+            ]
+          ]
+        },
+        {
+          "text": "成也",
+          "offset_candidates": [
+            [
+              14,
+              16
+            ]
+          ]
+        }
+      ],
+      "note": "朱圈"
+    },
+    {
+      "id": "red-047",
+      "frame": 5,
+      "side": "left",
+      "layer": "manuscript_red_ink",
+      "target_unit_id": "f05-left-body-04",
+      "mark": "addition",
+      "anchor_mode": "text_neighborhood_in_writing_column",
+      "anchors": [
+        {
+          "text": "非血塊",
+          "offset_candidates": [
+            [
+              6,
+              9
+            ]
+          ]
+        }
+      ],
+      "note": "「非」旁小朱字起讀「始」，墨、朱分層"
+    },
+    {
+      "id": "red-048",
+      "frame": 5,
+      "side": "left",
+      "layer": "manuscript_red_ink",
+      "target_unit_id": "f05-left-body-05",
+      "mark": "points",
+      "anchor_mode": "text_neighborhood_in_writing_column",
+      "anchors": [
+        {
+          "text": "牡丹皮湯",
+          "offset_candidates": [
+            [
+              4,
+              8
+            ]
+          ]
+        },
+        {
+          "text": "雷鳴",
+          "offset_candidates": [
+            [
+              13,
+              15
+            ]
+          ]
+        }
+      ],
+      "note": "朱圈"
+    },
+    {
+      "id": "red-049",
+      "frame": 5,
+      "side": "left",
+      "layer": "manuscript_red_ink",
+      "target_unit_id": "f05-left-body-05",
+      "mark": "interlinear",
+      "anchor_mode": "text_neighborhood_in_writing_column",
+      "anchors": [
+        {
+          "text": "不□時腹中雷鳴",
+          "offset_candidates": [
+            [
+              8,
+              15
+            ]
+          ]
+        }
+      ],
+      "note": "「□時」附近朱字「須臾」"
+    },
+    {
+      "id": "red-050",
+      "frame": 5,
+      "side": "left",
+      "layer": "manuscript_red_ink",
+      "target_unit_id": "f05-left-body-06",
+      "mark": "points",
+      "anchor_mode": "text_neighborhood_in_writing_column",
+      "anchors": [
+        {
+          "text": "一椀",
+          "offset_candidates": [
+            [
+              2,
+              4
+            ]
+          ]
+        },
+        {
+          "text": "即減",
+          "offset_candidates": [
+            [
+              5,
+              7
+            ]
+          ]
+        },
+        {
+          "text": "喜曰",
+          "offset_candidates": [
+            [
+              9,
+              11
+            ]
+          ]
+        }
+      ],
+      "note": "朱圈"
+    },
+    {
+      "id": "red-051",
+      "frame": 5,
+      "side": "left",
+      "layer": "manuscript_red_ink",
+      "target_unit_id": "f05-left-body-06",
+      "mark": "red_enclosure",
+      "anchor_mode": "text_neighborhood_in_writing_column",
+      "anchors": [
+        {
+          "text": "痛即減",
+          "offset_candidates": [
+            [
+              4,
+              7
+            ]
+          ]
+        }
+      ],
+      "note": "朱筆圈括此三字附近"
+    },
+    {
+      "id": "red-052",
+      "frame": 5,
+      "side": "left",
+      "layer": "manuscript_red_ink",
+      "target_unit_id": "f05-left-body-06",
+      "mark": "interlinear",
+      "anchor_mode": "text_neighborhood_in_writing_column",
+      "anchors": [
+        {
+          "text": "慶此藥諸多",
+          "offset_candidates": [
+            [
+              11,
+              16
+            ]
+          ]
+        }
+      ],
+      "note": "右側細朱串「藥效如此命亦無恙願」至框下，墨字維持原讀待定"
+    },
+    {
+      "id": "red-053",
+      "frame": 5,
+      "side": "left",
+      "layer": "manuscript_red_ink",
+      "target_unit_id": "f05-left-body-07",
+      "mark": "points",
+      "anchor_mode": "text_neighborhood_in_writing_column",
+      "anchors": [
+        {
+          "text": "余曰可",
+          "offset_candidates": [
+            [
+              1,
+              4
+            ]
+          ]
+        },
+        {
+          "text": "又與三貼",
+          "offset_candidates": [
+            [
+              4,
+              8
+            ]
+          ]
+        },
+        {
+          "text": "魚腸者",
+          "offset_candidates": [
+            [
+              10,
+              13
+            ]
+          ]
+        }
+      ],
+      "note": "朱圈"
+    },
+    {
+      "id": "red-054",
+      "frame": 5,
+      "side": "left",
+      "layer": "manuscript_red_ink",
+      "target_unit_id": "f05-left-body-07",
+      "mark": "interlinear",
+      "anchor_mode": "text_neighborhood_in_writing_column",
+      "anchors": [
+        {
+          "text": "又與三貼",
+          "offset_candidates": [
+            [
+              4,
+              8
+            ]
+          ]
+        }
+      ],
+      "note": "小朱「前方」及數目「四」；未選其代換原三字"
+    },
+    {
+      "id": "red-055",
+      "frame": 5,
+      "side": "left",
+      "layer": "manuscript_red_ink",
+      "target_unit_id": "f05-left-body-08",
+      "mark": "points",
+      "anchor_mode": "text_neighborhood_in_writing_column",
+      "anchors": [
+        {
+          "text": "椀苦楚",
+          "offset_candidates": [
+            [
+              0,
+              3
+            ]
+          ]
+        },
+        {
+          "text": "如故",
+          "offset_candidates": [
+            [
+              5,
+              7
+            ]
+          ]
+        },
+        {
+          "text": "行圍",
+          "offset_candidates": [
+            [
+              9,
+              11
+            ]
+          ]
+        },
+        {
+          "text": "再診之",
+          "offset_candidates": [
+            [
+              11,
+              14
+            ]
+          ]
+        }
+      ],
+      "note": "第一圈在首字椀旁，末兩圈各在圍與之旁"
+    },
+    {
+      "id": "red-056",
+      "frame": 5,
+      "side": "left",
+      "layer": "manuscript_red_ink",
+      "target_unit_id": "f05-left-body-08",
+      "mark": "interlinear",
+      "anchor_mode": "text_neighborhood_in_writing_column",
+      "anchors": [
+        {
+          "text": "苦楚脫然如故自起行圍",
+          "offset_candidates": [
+            [
+              1,
+              11
+            ]
+          ]
+        }
+      ],
+      "note": "脫／故／自／行附近見朱書頓、四、而及覆點，插改次序待核"
+    },
+    {
+      "id": "red-057",
+      "frame": 5,
+      "side": "left",
+      "layer": "manuscript_red_ink",
+      "target_unit_id": "f05-left-body-09",
+      "mark": "points",
+      "anchor_mode": "text_neighborhood_in_writing_column",
+      "anchors": [
+        {
+          "text": "托散",
+          "offset_candidates": [
+            [
+              6,
+              8
+            ]
+          ]
+        },
+        {
+          "text": "六貼",
+          "offset_candidates": [
+            [
+              9,
+              11
+            ]
+          ]
+        },
+        {
+          "text": "復元",
+          "offset_candidates": [
+            [
+              13,
+              15
+            ]
+          ]
+        }
+      ],
+      "note": "朱圈"
+    },
+    {
+      "id": "red-058",
+      "frame": 5,
+      "side": "left",
+      "layer": "manuscript_red_ink",
+      "target_unit_id": "f05-left-body-09",
+      "mark": "interlinear",
+      "anchor_mode": "text_neighborhood_in_writing_column",
+      "anchors": [
+        {
+          "text": "遲轉與",
+          "offset_candidates": [
+            [
+              0,
+              3
+            ]
+          ]
+        }
+      ],
+      "note": "逕／遲等朱線下延到框下；朱「更」在欄底附近"
+    },
+    {
+      "id": "red-059",
+      "frame": 5,
+      "side": "left",
+      "layer": "manuscript_red_ink",
+      "target_unit_id": "f05-left-body-09",
+      "mark": "head_note_relation",
+      "anchor_mode": "text_neighborhood_in_writing_column",
+      "anchors": [
+        {
+          "text": "遲",
+          "offset_candidates": [
+            [
+              0,
+              1
+            ]
+          ]
+        }
+      ],
+      "note": "緩遲二字朱眉批，關聯跨前欄末尾與本欄首"
+    },
+    {
+      "id": "red-060",
+      "frame": 5,
+      "side": "left",
+      "layer": "manuscript_red_ink",
+      "target_unit_id": "f05-left-body-10",
+      "mark": "points",
+      "anchor_mode": "text_neighborhood_in_writing_column",
+      "anchors": [
+        {
+          "text": "爽慧",
+          "offset_candidates": [
+            [
+              2,
+              4
+            ]
+          ]
+        },
+        {
+          "text": "如常",
+          "offset_candidates": [
+            [
+              6,
+              8
+            ]
+          ]
+        }
+      ],
+      "note": "朱圈"
+    },
+    {
+      "id": "red-061",
+      "frame": 6,
+      "side": "right",
+      "layer": "manuscript_red_ink",
+      "target_unit_id": "f06-right-body-01",
+      "mark": "points",
+      "anchor_mode": "text_neighborhood_in_writing_column",
+      "anchors": [
+        {
+          "text": "東都麹街",
+          "offset_candidates": [
+            [
+              0,
+              4
+            ]
+          ]
+        },
+        {
+          "text": "吉兵衞",
+          "offset_candidates": [
+            [
+              7,
+              10
+            ]
+          ]
+        },
+        {
+          "text": "十餘腹張",
+          "offset_candidates": [
+            [
+              11,
+              15
+            ]
+          ]
+        }
+      ],
+      "note": "朱圈；吉、餘位置可確認"
+    },
+    {
+      "id": "red-062",
+      "frame": 6,
+      "side": "right",
+      "layer": "manuscript_red_ink",
+      "target_unit_id": "f06-right-body-02",
+      "mark": "points",
+      "anchor_mode": "text_neighborhood_in_writing_column",
+      "anchors": [
+        {
+          "text": "如鼔",
+          "offset_candidates": [
+            [
+              0,
+              2
+            ]
+          ]
+        },
+        {
+          "text": "小腹有雷鳴",
+          "offset_candidates": [
+            [
+              4,
+              9
+            ]
+          ]
+        },
+        {
+          "text": "余曰",
+          "offset_candidates": [
+            [
+              9,
+              11
+            ]
+          ]
+        }
+      ],
+      "note": "朱圈"
+    },
+    {
+      "id": "red-063",
+      "frame": 6,
+      "side": "right",
+      "layer": "manuscript_red_ink",
+      "target_unit_id": "f06-right-body-02",
+      "mark": "addition",
+      "anchor_mode": "text_neighborhood_in_writing_column",
+      "anchors": [
+        {
+          "text": "雷鳴",
+          "offset_candidates": [
+            [
+              7,
+              9
+            ]
+          ]
+        }
+      ],
+      "note": "「有雷」旁朱書「聲」"
+    },
+    {
+      "id": "red-064",
+      "frame": 6,
+      "side": "right",
+      "layer": "manuscript_red_ink",
+      "target_unit_id": "f06-right-body-03",
+      "mark": "points",
+      "anchor_mode": "text_neighborhood_in_writing_column",
+      "anchors": [
+        {
+          "text": "成也",
+          "offset_candidates": [
+            [
+              0,
+              2
+            ]
+          ]
+        }
+      ],
+      "note": "朱圈"
+    },
+    {
+      "id": "red-065",
+      "frame": 6,
+      "side": "right",
+      "layer": "manuscript_red_ink",
+      "target_unit_id": "f06-right-body-03",
+      "mark": "red_enclosure",
+      "anchor_mode": "text_neighborhood_in_writing_column",
+      "anchors": [
+        {
+          "text": "蘭製杖将刺之",
+          "offset_candidates": [
+            [
+              3,
+              9
+            ]
+          ]
+        }
+      ],
+      "note": "「蘭製杖」左邊長朱線連眉批，校法未定"
+    },
+    {
+      "id": "red-066",
+      "frame": 6,
+      "side": "right",
+      "layer": "manuscript_red_ink",
+      "target_unit_id": "f06-right-body-03",
+      "mark": "interlinear",
+      "anchor_mode": "text_neighborhood_in_writing_column",
+      "anchors": [
+        {
+          "text": "留此余示",
+          "offset_candidates": [
+            [
+              12,
+              16
+            ]
+          ]
+        }
+      ],
+      "note": "「留此」附近見小朱字「之」及朱框線"
+    },
+    {
+      "id": "red-067",
+      "frame": 6,
+      "side": "right",
+      "layer": "manuscript_red_ink",
+      "target_unit_id": "f06-right-body-04",
+      "mark": "points",
+      "anchor_mode": "text_neighborhood_in_writing_column",
+      "anchors": [
+        {
+          "text": "可刺之",
+          "offset_candidates": [
+            [
+              0,
+              3
+            ]
+          ]
+        },
+        {
+          "text": "寸餘",
+          "offset_candidates": [
+            [
+              3,
+              5
+            ]
+          ]
+        },
+        {
+          "text": "如濁淋",
+          "offset_candidates": [
+            [
+              7,
+              10
+            ]
+          ]
+        },
+        {
+          "text": "出内使服",
+          "offset_candidates": [
+            [
+              11,
+              15
+            ]
+          ]
+        }
+      ],
+      "note": "朱圈"
+    },
+    {
+      "id": "red-068",
+      "frame": 6,
+      "side": "right",
+      "layer": "manuscript_red_ink",
+      "target_unit_id": "f06-right-body-04",
+      "mark": "addition",
+      "anchor_mode": "text_neighborhood_in_writing_column",
+      "anchors": [
+        {
+          "text": "淋溝出",
+          "offset_candidates": [
+            [
+              9,
+              12
+            ]
+          ]
+        }
+      ],
+      "note": "朱「流」在「溝出」附近，覆改關係未定"
+    },
+    {
+      "id": "red-069",
+      "frame": 6,
+      "side": "right",
+      "layer": "manuscript_red_ink",
+      "target_unit_id": "f06-right-body-05",
+      "mark": "points",
+      "anchor_mode": "text_neighborhood_in_writing_column",
+      "anchors": [
+        {
+          "text": "散瘀湯",
+          "offset_candidates": [
+            [
+              1,
+              4
+            ]
+          ]
+        },
+        {
+          "text": "透雲膏膿",
+          "offset_candidates": [
+            [
+              6,
+              10
+            ]
+          ]
+        }
+      ],
+      "note": "朱圈"
+    },
+    {
+      "id": "red-070",
+      "frame": 6,
+      "side": "right",
+      "layer": "manuscript_red_ink",
+      "target_unit_id": "f06-right-body-05",
+      "mark": "interlinear",
+      "anchor_mode": "text_neighborhood_in_writing_column",
+      "anchors": [
+        {
+          "text": "膿滅而後",
+          "offset_candidates": [
+            [
+              9,
+              13
+            ]
+          ]
+        }
+      ],
+      "note": "左側斜連線朱批「痛卻」"
+    },
+    {
+      "id": "red-071",
+      "frame": 6,
+      "side": "right",
+      "layer": "manuscript_red_ink",
+      "target_unit_id": "f06-right-body-06",
+      "mark": "points",
+      "anchor_mode": "text_neighborhood_in_writing_column",
+      "anchors": [
+        {
+          "text": "大補湯",
+          "offset_candidates": [
+            [
+              2,
+              5
+            ]
+          ]
+        },
+        {
+          "text": "全愈",
+          "offset_candidates": [
+            [
+              8,
+              10
+            ]
+          ]
+        }
+      ],
+      "note": "朱圈"
+    },
+    {
+      "id": "red-072",
+      "frame": 6,
+      "side": "right",
+      "layer": "manuscript_red_ink",
+      "target_unit_id": "f06-right-body-03",
+      "mark": "bottom_note_relation",
+      "anchor_mode": "text_neighborhood_in_writing_column",
+      "anchors": [
+        {
+          "text": "将",
+          "offset_candidates": [
+            [
+              6,
+              7
+            ]
+          ]
+        }
+      ],
+      "note": "本欄「将」與框下「雖然／膿或滿／内不刺／不利於／也」區相鄰。紅線結點待核，採區塊層定位"
+    },
+    {
+      "id": "red-073",
+      "frame": 6,
+      "side": "left",
+      "layer": "manuscript_red_ink",
+      "target_unit_id": "f06-left-body-02",
+      "mark": "points",
+      "anchor_mode": "text_neighborhood_in_writing_column",
+      "anchors": [
+        {
+          "text": "用藥",
+          "offset_candidates": [
+            [
+              3,
+              5
+            ]
+          ]
+        },
+        {
+          "text": "用兵",
+          "offset_candidates": [
+            [
+              8,
+              10
+            ]
+          ]
+        },
+        {
+          "text": "可攻",
+          "offset_candidates": [
+            [
+              12,
+              14
+            ]
+          ]
+        }
+      ],
+      "note": "朱圈；用兵圈在兵旁"
+    },
+    {
+      "id": "red-074",
+      "frame": 6,
+      "side": "left",
+      "layer": "manuscript_red_ink",
+      "target_unit_id": "f06-left-body-03",
+      "mark": "points",
+      "anchor_mode": "text_neighborhood_in_writing_column",
+      "anchors": [
+        {
+          "text": "可補",
+          "offset_candidates": [
+            [
+              0,
+              2
+            ]
+          ]
+        },
+        {
+          "text": "緩急",
+          "offset_candidates": [
+            [
+              4,
+              6
+            ]
+          ]
+        },
+        {
+          "text": "應變",
+          "offset_candidates": [
+            [
+              8,
+              10
+            ]
+          ]
+        },
+        {
+          "text": "病情",
+          "offset_candidates": [
+            [
+              12,
+              14
+            ]
+          ]
+        }
+      ],
+      "note": "朱圈"
+    },
+    {
+      "id": "red-075",
+      "frame": 6,
+      "side": "left",
+      "layer": "manuscript_red_ink",
+      "target_unit_id": "f06-left-body-04",
+      "mark": "points",
+      "anchor_mode": "text_neighborhood_in_writing_column",
+      "anchors": [
+        {
+          "text": "其宜",
+          "offset_candidates": [
+            [
+              1,
+              3
+            ]
+          ]
+        },
+        {
+          "text": "用兵也",
+          "offset_candidates": [
+            [
+              7,
+              10
+            ]
+          ]
+        }
+      ],
+      "note": "朱圈"
+    },
+    {
+      "id": "red-076",
+      "frame": 6,
+      "side": "left",
+      "layer": "manuscript_red_ink",
+      "target_unit_id": "f06-left-body-04",
+      "mark": "addition",
+      "anchor_mode": "text_neighborhood_in_writing_column",
+      "anchors": [
+        {
+          "text": "是如將",
+          "offset_candidates": [
+            [
+              3,
+              6
+            ]
+          ]
+        }
+      ],
+      "note": "「如」旁朱字「猶」，保持兩層"
+    },
+    {
+      "id": "red-077",
+      "frame": 6,
+      "side": "left",
+      "layer": "manuscript_red_ink",
+      "target_unit_id": "f06-left-body-05",
+      "mark": "points",
+      "anchor_mode": "text_neighborhood_in_writing_column",
+      "anchors": [
+        {
+          "text": "之別",
+          "offset_candidates": [
+            [
+              2,
+              4
+            ]
+          ]
+        },
+        {
+          "text": "救裡法",
+          "offset_candidates": [
+            [
+              9,
+              12
+            ]
+          ]
+        },
+        {
+          "text": "何經曰",
+          "offset_candidates": [
+            [
+              12,
+              15
+            ]
+          ]
+        }
+      ],
+      "note": "朱圈"
+    },
+    {
+      "id": "red-078",
+      "frame": 6,
+      "side": "left",
+      "layer": "manuscript_red_ink",
+      "target_unit_id": "f06-left-body-05",
+      "mark": "addition",
+      "anchor_mode": "text_neighborhood_in_writing_column",
+      "anchors": [
+        {
+          "text": "救裡法",
+          "offset_candidates": [
+            [
+              9,
+              12
+            ]
+          ]
+        }
+      ],
+      "note": "裡、法之間見朱「之」"
+    },
+    {
+      "id": "red-079",
+      "frame": 6,
+      "side": "left",
+      "layer": "manuscript_red_ink",
+      "target_unit_id": "f06-left-body-06",
+      "mark": "points",
+      "anchor_mode": "text_neighborhood_in_writing_column",
+      "anchors": [
+        {
+          "text": "未解",
+          "offset_candidates": [
+            [
+              4,
+              6
+            ]
+          ]
+        },
+        {
+          "text": "不可下",
+          "offset_candidates": [
+            [
+              6,
+              9
+            ]
+          ]
+        }
+      ],
+      "note": "朱圈；不作現代補標點"
+    },
+    {
+      "id": "red-080",
+      "frame": 6,
+      "side": "left",
+      "layer": "manuscript_red_ink",
+      "target_unit_id": "f06-left-body-07",
+      "mark": "points",
+      "anchor_mode": "text_neighborhood_in_writing_column",
+      "anchors": [
+        {
+          "text": "為逆",
+          "offset_candidates": [
+            [
+              1,
+              3
+            ]
+          ]
+        },
+        {
+          "text": "其道也",
+          "offset_candidates": [
+            [
+              6,
+              9
+            ]
+          ]
+        },
+        {
+          "text": "之時",
+          "offset_candidates": [
+            [
+              13,
+              15
+            ]
+          ]
+        }
+      ],
+      "note": "朱圈"
+    },
+    {
+      "id": "red-081",
+      "frame": 6,
+      "side": "left",
+      "layer": "manuscript_red_ink",
+      "target_unit_id": "f06-left-body-08",
+      "mark": "points",
+      "anchor_mode": "text_neighborhood_in_writing_column",
+      "anchors": [
+        {
+          "text": "之証",
+          "offset_candidates": [
+            [
+              5,
+              7
+            ]
+          ]
+        },
+        {
+          "text": "不可下也",
+          "offset_candidates": [
+            [
+              9,
+              13
+            ]
+          ]
+        }
+      ],
+      "note": "朱圈；「不」「可」附近小朱書「得」"
+    },
+    {
+      "id": "red-082",
+      "frame": 6,
+      "side": "left",
+      "layer": "manuscript_red_ink",
+      "target_unit_id": "f06-left-body-09",
+      "mark": "points",
+      "anchor_mode": "text_neighborhood_in_writing_column",
+      "anchors": [
+        {
+          "text": "之欲",
+          "offset_candidates": [
+            [
+              0,
+              2
+            ]
+          ]
+        },
+        {
+          "text": "大承氣",
+          "offset_candidates": [
+            [
+              3,
+              6
+            ]
+          ]
+        },
+        {
+          "text": "小承氣",
+          "offset_candidates": [
+            [
+              9,
+              12
+            ]
+          ]
+        },
+        {
+          "text": "探試之",
+          "offset_candidates": [
+            [
+              12,
+              15
+            ]
+          ]
+        }
+      ],
+      "note": "朱圈"
+    },
+    {
+      "id": "red-083",
+      "frame": 6,
+      "side": "left",
+      "layer": "manuscript_red_ink",
+      "target_unit_id": "f06-left-body-10",
+      "mark": "points",
+      "anchor_mode": "text_neighborhood_in_writing_column",
+      "anchors": [
+        {
+          "text": "深旨也",
+          "offset_candidates": [
+            [
+              5,
+              8
+            ]
+          ]
+        }
+      ],
+      "note": "朱圈"
+    },
+    {
+      "id": "red-084",
+      "frame": 7,
+      "side": "right",
+      "layer": "manuscript_red_ink",
+      "target_unit_id": "f07-right-body-01",
+      "mark": "points",
+      "anchor_mode": "text_neighborhood_in_writing_column",
+      "anchors": [
+        {
+          "text": "表法何",
+          "offset_candidates": [
+            [
+              1,
+              4
+            ]
+          ]
+        },
+        {
+          "text": "医下之續",
+          "offset_candidates": [
+            [
+              6,
+              10
+            ]
+          ]
+        },
+        {
+          "text": "清穀不",
+          "offset_candidates": [
+            [
+              15,
+              18
+            ]
+          ]
+        }
+      ],
+      "note": "朱圈，續下及清前有原件缺損"
+    },
+    {
+      "id": "red-085",
+      "frame": 7,
+      "side": "right",
+      "layer": "manuscript_red_ink",
+      "target_unit_id": "f07-right-body-02",
+      "mark": "points",
+      "anchor_mode": "text_neighborhood_in_writing_column",
+      "anchors": [
+        {
+          "text": "止身",
+          "offset_candidates": [
+            [
+              0,
+              2
+            ]
+          ]
+        },
+        {
+          "text": "疼痛者",
+          "offset_candidates": [
+            [
+              2,
+              5
+            ]
+          ]
+        },
+        {
+          "text": "救裡",
+          "offset_candidates": [
+            [
+              7,
+              9
+            ]
+          ]
+        },
+        {
+          "text": "身疼痛清",
+          "offset_candidates": [
+            [
+              10,
+              14
+            ]
+          ]
+        }
+      ],
+      "note": "兩處「疼痛」分辨可憑完整詞組定位"
+    },
+    {
+      "id": "red-086",
+      "frame": 7,
+      "side": "right",
+      "layer": "manuscript_red_ink",
+      "target_unit_id": "f07-right-body-03",
+      "mark": "points",
+      "anchor_mode": "text_neighborhood_in_writing_column",
+      "anchors": [
+        {
+          "text": "調者",
+          "offset_candidates": [
+            [
+              0,
+              2
+            ]
+          ]
+        },
+        {
+          "text": "四逆湯",
+          "offset_candidates": [
+            [
+              9,
+              12
+            ]
+          ]
+        }
+      ],
+      "note": "朱圈"
+    },
+    {
+      "id": "red-087",
+      "frame": 7,
+      "side": "right",
+      "layer": "manuscript_red_ink",
+      "target_unit_id": "f07-right-body-04",
+      "mark": "points",
+      "anchor_mode": "text_neighborhood_in_writing_column",
+      "anchors": [
+        {
+          "text": "枝湯",
+          "offset_candidates": [
+            [
+              0,
+              2
+            ]
+          ]
+        },
+        {
+          "text": "表裡症者",
+          "offset_candidates": [
+            [
+              5,
+              9
+            ]
+          ]
+        },
+        {
+          "text": "救裡此",
+          "offset_candidates": [
+            [
+              13,
+              16
+            ]
+          ]
+        }
+      ],
+      "note": "朱圈"
+    },
+    {
+      "id": "red-088",
+      "frame": 7,
+      "side": "right",
+      "layer": "manuscript_red_ink",
+      "target_unit_id": "f07-right-body-05",
+      "mark": "points",
+      "anchor_mode": "text_neighborhood_in_writing_column",
+      "anchors": [
+        {
+          "text": "反之",
+          "offset_candidates": [
+            [
+              1,
+              3
+            ]
+          ]
+        },
+        {
+          "text": "無佗",
+          "offset_candidates": [
+            [
+              4,
+              6
+            ]
+          ]
+        },
+        {
+          "text": "他証",
+          "offset_candidates": [
+            [
+              12,
+              14
+            ]
+          ]
+        }
+      ],
+      "note": "朱圈"
+    },
+    {
+      "id": "red-089",
+      "frame": 7,
+      "side": "right",
+      "layer": "manuscript_red_ink",
+      "target_unit_id": "f07-right-body-06",
+      "mark": "points",
+      "anchor_mode": "text_neighborhood_in_writing_column",
+      "anchors": [
+        {
+          "text": "急劇",
+          "offset_candidates": [
+            [
+              0,
+              2
+            ]
+          ]
+        },
+        {
+          "text": "其緩也",
+          "offset_candidates": [
+            [
+              8,
+              11
+            ]
+          ]
+        },
+        {
+          "text": "則云",
+          "offset_candidates": [
+            [
+              11,
+              13
+            ]
+          ]
+        }
+      ],
+      "note": "朱圈"
+    },
+    {
+      "id": "red-090",
+      "frame": 7,
+      "side": "right",
+      "layer": "manuscript_red_ink",
+      "target_unit_id": "f07-right-body-07",
+      "mark": "points",
+      "anchor_mode": "text_neighborhood_in_writing_column",
+      "anchors": [
+        {
+          "text": "穀",
+          "offset_candidates": [
+            [
+              0,
+              1
+            ]
+          ]
+        },
+        {
+          "text": "攻表",
+          "offset_candidates": [
+            [
+              3,
+              5
+            ]
+          ]
+        },
+        {
+          "text": "脹滿",
+          "offset_candidates": [
+            [
+              8,
+              10
+            ]
+          ]
+        },
+        {
+          "text": "所致",
+          "offset_candidates": [
+            [
+              14,
+              16
+            ]
+          ]
+        }
+      ],
+      "note": "首圈為「穀」旁，其餘朱圈"
+    },
+    {
+      "id": "red-091",
+      "frame": 7,
+      "side": "right",
+      "layer": "manuscript_red_ink",
+      "target_unit_id": "f07-right-body-08",
+      "mark": "points",
+      "anchor_mode": "text_neighborhood_in_writing_column",
+      "anchors": [
+        {
+          "text": "不識也",
+          "offset_candidates": [
+            [
+              5,
+              8
+            ]
+          ]
+        },
+        {
+          "text": "治病如",
+          "offset_candidates": [
+            [
+              13,
+              16
+            ]
+          ]
+        }
+      ],
+      "note": "朱圈"
+    },
+    {
+      "id": "red-092",
+      "frame": 7,
+      "side": "right",
+      "layer": "manuscript_red_ink",
+      "target_unit_id": "f07-right-body-09",
+      "mark": "points",
+      "anchor_mode": "text_neighborhood_in_writing_column",
+      "anchors": [
+        {
+          "text": "奕碁",
+          "offset_candidates": [
+            [
+              0,
+              2
+            ]
+          ]
+        },
+        {
+          "text": "先救急",
+          "offset_candidates": [
+            [
+              3,
+              6
+            ]
+          ]
+        },
+        {
+          "text": "者何",
+          "offset_candidates": [
+            [
+              7,
+              9
+            ]
+          ]
+        },
+        {
+          "text": "其重",
+          "offset_candidates": [
+            [
+              10,
+              12
+            ]
+          ]
+        },
+        {
+          "text": "其輕也",
+          "offset_candidates": [
+            [
+              13,
+              16
+            ]
+          ]
+        }
+      ],
+      "note": "朱圈"
+    },
+    {
+      "id": "red-093",
+      "frame": 7,
+      "side": "right",
+      "layer": "manuscript_red_ink",
+      "target_unit_id": "f07-right-body-10",
+      "mark": "points",
+      "anchor_mode": "text_neighborhood_in_writing_column",
+      "anchors": [
+        {
+          "text": "金匱云",
+          "offset_candidates": [
+            [
+              1,
+              4
+            ]
+          ]
+        },
+        {
+          "text": "痼疾",
+          "offset_candidates": [
+            [
+              6,
+              8
+            ]
+          ]
+        },
+        {
+          "text": "卒病先",
+          "offset_candidates": [
+            [
+              10,
+              13
+            ]
+          ]
+        },
+        {
+          "text": "卒病",
+          "offset_candidates": [
+            [
+              10,
+              12
+            ],
+            [
+              14,
+              16
+            ]
+          ]
+        }
+      ],
+      "note": "末一標記實在末「病」旁"
+    },
+    {
+      "id": "red-094",
+      "frame": 7,
+      "side": "right",
+      "layer": "manuscript_red_ink",
+      "target_unit_id": "f07-right-body-05",
+      "mark": "bottom_note_relation",
+      "anchor_mode": "text_neighborhood_in_writing_column",
+      "anchors": [
+        {
+          "text": "則最",
+          "offset_candidates": [
+            [
+              14,
+              16
+            ]
+          ]
+        }
+      ],
+      "note": "「最」下朱批「為危」"
+    },
+    {
+      "id": "red-095",
+      "frame": 7,
+      "side": "left",
+      "layer": "manuscript_red_ink",
+      "target_unit_id": "f07-left-body-01",
+      "mark": "points",
+      "anchor_mode": "text_neighborhood_in_writing_column",
+      "anchors": [
+        {
+          "text": "痼疾",
+          "offset_candidates": [
+            [
+              2,
+              4
+            ]
+          ]
+        },
+        {
+          "text": "觀之",
+          "offset_candidates": [
+            [
+              6,
+              8
+            ]
+          ]
+        },
+        {
+          "text": "證者",
+          "offset_candidates": [
+            [
+              11,
+              13
+            ]
+          ]
+        },
+        {
+          "text": "先救其",
+          "offset_candidates": [
+            [
+              13,
+              16
+            ]
+          ]
+        }
+      ],
+      "note": "朱圈，末朱圈靠救字"
+    },
+    {
+      "id": "red-096",
+      "frame": 7,
+      "side": "left",
+      "layer": "manuscript_red_ink",
+      "target_unit_id": "f07-left-body-02",
+      "mark": "points",
+      "anchor_mode": "text_neighborhood_in_writing_column",
+      "anchors": [
+        {
+          "text": "急",
+          "offset_candidates": [
+            [
+              0,
+              1
+            ]
+          ]
+        },
+        {
+          "text": "緩諦矣",
+          "offset_candidates": [
+            [
+              3,
+              6
+            ]
+          ]
+        },
+        {
+          "text": "之機",
+          "offset_candidates": [
+            [
+              13,
+              15
+            ]
+          ]
+        }
+      ],
+      "note": "朱圈"
+    },
+    {
+      "id": "red-097",
+      "frame": 7,
+      "side": "left",
+      "layer": "manuscript_red_ink",
+      "target_unit_id": "f07-left-body-03",
+      "mark": "points",
+      "anchor_mode": "text_neighborhood_in_writing_column",
+      "anchors": [
+        {
+          "text": "之差",
+          "offset_candidates": [
+            [
+              1,
+              3
+            ]
+          ]
+        },
+        {
+          "text": "千里之謬",
+          "offset_candidates": [
+            [
+              3,
+              7
+            ]
+          ]
+        },
+        {
+          "text": "審焉",
+          "offset_candidates": [
+            [
+              11,
+              13
+            ]
+          ]
+        }
+      ],
+      "note": "朱圈"
+    },
+    {
+      "id": "red-098",
+      "frame": 8,
+      "side": "right",
+      "layer": "manuscript_red_ink",
+      "target_unit_id": "f08-right-red_comment-01",
+      "mark": "interlinear",
+      "anchor_mode": "text_neighborhood_in_writing_column",
+      "anchors": [
+        {
+          "text": "其為可談耳",
+          "offset_candidates": [
+            [
+              4,
+              9
+            ]
+          ]
+        }
+      ],
+      "note": "「雖然」附近紅色稀薄殘線／小字，未強加讀法"
+    },
+    {
+      "id": "red-099",
+      "frame": 8,
+      "side": "right",
+      "layer": "manuscript_red_ink",
+      "target_unit_id": "f08-right-red_comment-02",
+      "mark": "interlinear",
+      "anchor_mode": "text_neighborhood_in_writing_column",
+      "anchors": [
+        {
+          "text": "日夜相勉不息",
+          "offset_candidates": [
+            [
+              5,
+              11
+            ]
+          ]
+        }
+      ],
+      "note": "兩條朱字補寫中可辨部分「不學將何如」「之為」，未替代正文"
+    },
+    {
+      "id": "red-100",
+      "frame": 8,
+      "side": "right",
+      "layer": "manuscript_red_ink",
+      "target_unit_id": "f08-right-red_comment-04",
+      "mark": "variante",
+      "anchor_mode": "text_neighborhood_in_writing_column",
+      "anchors": [
+        {
+          "text": "安政六年仲□十有七日",
+          "offset_candidates": [
+            [
+              0,
+              10
+            ]
+          ]
+        }
+      ],
+      "note": "「仲」下一字初讀夏，獨立影像觀察首選冬；保留夏、冬兩候選，暫不定季節",
+      "reading_candidates": [
+        {
+          "text": "夏",
+          "origin": "initial_reader"
+        },
+        {
+          "text": "冬",
+          "origin": "independent_image_reader"
+        }
+      ],
+      "resolution": "unresolved"
+    }
+  ],
+  "pdf_sha256": "308f40418d1d12d0de6a4952b00b0b32dc8904ca22acd4a3c4509f8814abf366",
+  "manifest_sha256": "c08272239531bf4ae02356a3366505320a088b4b1e65669a3191150914927fcf"
+}
