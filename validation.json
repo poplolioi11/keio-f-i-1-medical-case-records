@@ -1,12 +1,12 @@
 {
   "image_inventory": 9,
-  "text_units": 148,
+  "text_units": 150,
   "xml_relaxng": "TEI P5 tei_all",
   "cff_schema": "1.2.0",
   "ordered_text_roundtrip": "passed",
   "content_sha256": {
-    "transcription.json": "a80fa15f05a5c511546de18d69b0ccdd9e7461c69ee356eaea751c34c97e5e3a",
-    "transcription.txt": "51dd395e747895b269b507a1138c5af4af46b9c436c831d4c6e27d9634f5f402",
-    "transcription.tei.xml": "1c0876faf7964efebb585f93cec84dda3a3ee0d58e1bc71731b4298a684eca96"
+    "transcription.json": "d95934905f57a6b754b621a688d0e994bcbacaa9131cd006df3f39459b1cc7f6",
+    "transcription.txt": "2f9471d36cf3eb915135298c0da4962ad0b30adba7e6d9b4b8c51556a20e37e1",
+    "transcription.tei.xml": "f8fab56e8167e808a701a50273f0b375758615f21470d982e1f1e13322d56a7d"
   }
 }

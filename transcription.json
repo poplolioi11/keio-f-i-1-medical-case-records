@@ -7,23 +7,23 @@
     "source": "https://dcollections.lib.keio.ac.jp/ja/koisho/f-i-1",
     "manifest": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/manifest.json",
     "language": "lzh",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "date": "2026-11-21",
-    "quality_zh": "AI 輔助初錄。保留原件缺損、疑讀及全冊影像定位。未做人類全文雙校、專家審定、同儕審查或準確率量測。",
-    "quality_en": "AI-assisted initial transcription with source references and marked uncertainties. Human full-text double proofreading, expert review, peer review and accuracy measurement were not performed.",
+    "quality_zh": "逐幅回圖，比對獨立讀稿及原初錄，採用 20 項回圖訂正。疑讀、藏印或細小批注按實際可辨範圍保留。未做人類全文雙校、專家審定、同儕審查或準確率量測。",
+    "quality_en": "Source-image review compared independent observations with the initial transcription and records 20 image-supported changes. Uncertain readings remain marked. Human full-text double proofreading, expert review, peer review and accuracy measurement were not performed.",
     "editor": {
       "name": "Chu, Chen-Yu",
       "orcid": "0009-0003-9738-6914"
     },
-    "initial_sha256": "ac2b16dc31a8fb76342d4005dfe9c26f0e3e4463667c3143674c507d4013cf9c"
+    "initial_sha256": "da3e0ad4ca0178225e1c34425f78b97e19943352db7958304954182b66aa922d"
   },
   "pages": [
     {
       "image": 1,
       "label": "1",
       "id": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page1",
-      "sha256": "bca73ead5aa1090059afd2bc37f659c8c9b2da7b8e4cba9e9b195ed8f08922f2",
       "locator": "https://iiif.lib.keio.ac.jp/FJK/F-i-1/pdf/F-i-1.pdf#page=1",
+      "sha256": "bca73ead5aa1090059afd2bc37f659c8c9b2da7b8e4cba9e9b195ed8f08922f2",
       "note": "題簽、書庫標貼、水印",
       "surfaces": [
         {
@@ -53,8 +53,8 @@
       "image": 2,
       "label": "2",
       "id": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page2",
-      "sha256": "9ff98a498f0ccf188d5fc710433c838bd5642c34429071a710b30f10a71df7c3",
       "locator": "https://iiif.lib.keio.ac.jp/FJK/F-i-1/pdf/F-i-1.pdf#page=2",
+      "sha256": "9ff98a498f0ccf188d5fc710433c838bd5642c34429071a710b30f10a71df7c3",
       "note": "鉛筆書庫字、收藏章、內題、墨筆欄外題記",
       "surfaces": [
         {
@@ -96,8 +96,8 @@
       "image": 3,
       "label": "3",
       "id": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page3",
-      "sha256": "fa825a0a639929290377322754e739b0664b3224070524cef4896385f491cea8",
       "locator": "https://iiif.lib.keio.ac.jp/FJK/F-i-1/pdf/F-i-1.pdf#page=3",
+      "sha256": "fa825a0a639929290377322754e739b0664b3224070524cef4896385f491cea8",
       "note": "右收藏章；左十正文欄及朱眉批、朱筆句讀、校記、墨損",
       "surfaces": [
         {
@@ -138,7 +138,7 @@
               "id": "f03-left-body-05",
               "index_in_role": 5,
               "role": "body",
-              "text": "者脉微々如蜘蛛之糸其急劇者死到脉"
+              "text": "者脉微々如蜘蛛之糸其急劇者危刻脉"
             },
             {
               "id": "f03-left-body-06",
@@ -168,7 +168,7 @@
               "id": "f03-left-body-10",
               "index_in_role": 10,
               "role": "body",
-              "text": "此與白虎湯或白虎加人□〔缺損〕虎加桂"
+              "text": "此與白虎湯或白虎加人□又〔缺損〕虎加桂"
             },
             {
               "id": "f03-left-red_head_note-01",
@@ -199,8 +199,8 @@
       "image": 4,
       "label": "4",
       "id": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page4",
-      "sha256": "c81ec0250bbb660371bad743ef89e9a1e4068f2d003ddd1771eb95777943b93c",
       "locator": "https://iiif.lib.keio.ac.jp/FJK/F-i-1/pdf/F-i-1.pdf#page=4",
+      "sha256": "c81ec0250bbb660371bad743ef89e9a1e4068f2d003ddd1771eb95777943b93c",
       "note": "右十正文欄、細黑眉批、朱色插改；左七正文欄、朱眉批、末三欄朱批接次頁",
       "surfaces": [
         {
@@ -228,7 +228,7 @@
               "id": "f04-right-body-04",
               "index_in_role": 4,
               "role": "body",
-              "text": "衆医徒束手是歟矣余嘗然歎息廢業忘"
+              "text": "衆医徒束手是歟矣余喟然歎息廢業忘"
             },
             {
               "id": "f04-right-body-05",
@@ -386,13 +386,13 @@
               "id": "f04-left-body-06",
               "index_in_role": 6,
               "role": "body",
-              "text": "示同志于時仲秋会于東都長尾氏燈"
+              "text": "示同志于時仲秋念二於東都長尾氏燈"
             },
             {
               "id": "f04-left-body-07",
               "index_in_role": 7,
               "role": "body",
-              "text": "下相陽遊學生秦齋池田午謹誌之"
+              "text": "下相陽遊學生秦齋池田平謹誌之"
             },
             {
               "id": "f04-left-red_head_note-01",
@@ -440,7 +440,7 @@
               "id": "f04-left-red_comment-03",
               "index_in_role": 3,
               "role": "red_comment",
-              "text": "之於平日臨危濟厄而濟其生也〔缺損〕少傷寒論"
+              "text": "之於平日臨危避厄而濟其生也〔缺損〕少傷寒論"
             }
           ],
           "notes": [
@@ -453,8 +453,8 @@
       "image": 5,
       "label": "5",
       "id": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page5",
-      "sha256": "159e29cc52a3cc91870fd50d6cc2560464ac5828cbeffc58418eab33cffa2ef4",
       "locator": "https://iiif.lib.keio.ac.jp/FJK/F-i-1/pdf/F-i-1.pdf#page=5",
+      "sha256": "159e29cc52a3cc91870fd50d6cc2560464ac5828cbeffc58418eab33cffa2ef4",
       "note": "右五朱批欄；左十正文欄、小字朱色插改及朱眉批",
       "surfaces": [
         {
@@ -470,7 +470,7 @@
               "id": "f05-right-red_comment-02",
               "index_in_role": 2,
               "role": "red_comment",
-              "text": "不隨手奏效者始少誤人耳何知後人容易讀去"
+              "text": "不隨手效者始少誤人耳何知後人容易讀去"
             },
             {
               "id": "f05-right-red_comment-03",
@@ -489,6 +489,20 @@
               "index_in_role": 5,
               "role": "red_comment",
               "text": "之為醫者危哉云々"
+            },
+            {
+              "id": "f05-right-red-inline-review-01",
+              "role": "red_inline",
+              "text": "奏",
+              "target_unit_id": "f05-right-red_comment-02",
+              "anchor": "效"
+            },
+            {
+              "id": "f05-right-red-inline-review-02",
+              "role": "red_inline",
+              "text": "之",
+              "target_unit_id": "f05-right-red_comment-02",
+              "anchor": "後人"
             }
           ],
           "notes": [
@@ -508,7 +522,7 @@
               "id": "f05-left-body-02",
               "index_in_role": 2,
               "role": "body",
-              "text": "淋自不能前又不能起卧大小便共秘衆"
+              "text": "淋自不能捫又不能起卧大小便共秘衆"
             },
             {
               "id": "f05-left-body-03",
@@ -538,7 +552,7 @@
               "id": "f05-left-body-07",
               "index_in_role": 7,
               "role": "body",
-              "text": "服余曰可又與三貼下如魚腸者約六七"
+              "text": "服余曰可又與三貼下如魚腦者約六七"
             },
             {
               "id": "f05-left-body-08",
@@ -659,8 +673,8 @@
       "image": 6,
       "label": "6",
       "id": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page6",
-      "sha256": "a9525e0c0e89e8c5503f4f0c7938fed9f99fb7b8d41794e354fa4e5cd7767717",
       "locator": "https://iiif.lib.keio.ac.jp/FJK/F-i-1/pdf/F-i-1.pdf#page=6",
+      "sha256": "a9525e0c0e89e8c5503f4f0c7938fed9f99fb7b8d41794e354fa4e5cd7767717",
       "note": "右六正文欄、四朱批欄、朱眉批及框下批；左十正文欄、朱插改",
       "surfaces": [
         {
@@ -682,7 +696,7 @@
               "id": "f06-right-body-03",
               "index_in_role": 3,
               "role": "body",
-              "text": "成也把蘭製杖将刺之一瘍医留此余示"
+              "text": "成也把蘭製板将刺之一瘍医留此余不"
             },
             {
               "id": "f06-right-body-04",
@@ -706,7 +720,7 @@
               "id": "f06-right-red_head_note-01",
               "index_in_role": 1,
               "role": "red_head_note",
-              "text": "蘭製杖ト云フ智玄何"
+              "text": "蘭製板ト云フ□ノ字何"
             },
             {
               "id": "f06-right-red_head_note-02",
@@ -802,7 +816,7 @@
               "id": "f06-right-red_comment-04",
               "index_in_role": 4,
               "role": "red_comment",
-              "text": "内外治法已故附言之"
+              "text": "内外治法已故聊告之"
             }
           ],
           "notes": [
@@ -901,8 +915,8 @@
       "image": 7,
       "label": "7",
       "id": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page7",
-      "sha256": "731b09b0ec70faf7c4a5d55ba348ee4c1c868083adf6cafe257477f3a3ed5d44",
       "locator": "https://iiif.lib.keio.ac.jp/FJK/F-i-1/pdf/F-i-1.pdf#page=7",
+      "sha256": "731b09b0ec70faf7c4a5d55ba348ee4c1c868083adf6cafe257477f3a3ed5d44",
       "note": "右十正文欄、朱句讀及朱尾批；左三正文欄、六朱批欄接次頁",
       "surfaces": [
         {
@@ -942,7 +956,7 @@
               "id": "f07-right-body-06",
               "index_in_role": 6,
               "role": "body",
-              "text": "急劇故先救其急後其緩也則云下利清"
+              "text": "急劇故先救其急後其緩也例云下利清"
             },
             {
               "id": "f07-right-body-07",
@@ -1022,13 +1036,13 @@
               "id": "f07-left-red_comment-04",
               "index_in_role": 4,
               "role": "red_comment",
-              "text": "一室隔風埃中未得挾羽翩達八表是以素願挫折學"
+              "text": "一室隔風埃中未得挾羽翩達八表是以志氣摧折學"
             },
             {
               "id": "f07-left-red_comment-05",
               "index_in_role": 5,
               "role": "red_comment",
-              "text": "業就廢古人曰少年太弟一生悔於予有是矣如手青"
+              "text": "業就廢古人曰少年太弟一生悔於予有是矣如予青"
             },
             {
               "id": "f07-left-red_comment-06",
@@ -1047,8 +1061,8 @@
       "image": 8,
       "label": "8",
       "id": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page8",
-      "sha256": "cef858a6b70cacac5cc31fef9e2c7c4adf0fa59bedf0a5573f25228e3da005f8",
       "locator": "https://iiif.lib.keio.ac.jp/FJK/F-i-1/pdf/F-i-1.pdf#page=8",
+      "sha256": "cef858a6b70cacac5cc31fef9e2c7c4adf0fa59bedf0a5573f25228e3da005f8",
       "note": "右五朱批欄、署記與極淡邊字；左無書寫區",
       "surfaces": [
         {
@@ -1070,7 +1084,7 @@
               "id": "f08-right-red_comment-03",
               "index_in_role": 3,
               "role": "red_comment",
-              "text": "警予併以自鑑矣燈下一讀書之識語"
+              "text": "警予併以自警耳燈下一讀書之識語"
             },
             {
               "id": "f08-right-red_comment-04",
@@ -1114,8 +1128,8 @@
       "image": 9,
       "label": "9",
       "id": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page9",
-      "sha256": "c90c59d250e1c22205850a8e7580fa6fefc15bff5b5547e68ba3e393136ad885",
       "locator": "https://iiif.lib.keio.ac.jp/FJK/F-i-1/pdf/F-i-1.pdf#page=9",
+      "sha256": "c90c59d250e1c22205850a8e7580fa6fefc15bff5b5547e68ba3e393136ad885",
       "note": "素背封、館方水印",
       "surfaces": [
         {
@@ -1162,8 +1176,8 @@
     },
     {
       "unit_id": "f03-left-body-10",
-      "begin": 11,
-      "end": 15,
+      "begin": 12,
+      "end": 16,
       "span": "〔缺損〕",
       "reason": "physical_damage",
       "review_status": "open"
@@ -1180,38 +1194,6 @@
       "unit_id": "f04-right-body-01",
       "begin": 9,
       "end": 13,
-      "span": "〔缺損〕",
-      "reason": "physical_damage",
-      "review_status": "open"
-    },
-    {
-      "unit_id": "f05-left-body-05",
-      "begin": 9,
-      "end": 10,
-      "span": "□",
-      "reason": "illegible",
-      "review_status": "open"
-    },
-    {
-      "unit_id": "f06-right-body-01",
-      "begin": 10,
-      "end": 11,
-      "span": "□",
-      "reason": "illegible",
-      "review_status": "open"
-    },
-    {
-      "unit_id": "f06-left-body-10",
-      "begin": 9,
-      "end": 13,
-      "span": "〔缺損〕",
-      "reason": "physical_damage",
-      "review_status": "open"
-    },
-    {
-      "unit_id": "f07-right-body-01",
-      "begin": 10,
-      "end": 14,
       "span": "〔缺損〕",
       "reason": "physical_damage",
       "review_status": "open"
@@ -1321,11 +1303,51 @@
       "review_status": "open"
     },
     {
+      "unit_id": "f05-left-body-05",
+      "begin": 9,
+      "end": 10,
+      "span": "□",
+      "reason": "illegible",
+      "review_status": "open"
+    },
+    {
+      "unit_id": "f06-right-body-01",
+      "begin": 10,
+      "end": 11,
+      "span": "□",
+      "reason": "illegible",
+      "review_status": "open"
+    },
+    {
+      "unit_id": "f06-right-red_head_note-01",
+      "begin": 6,
+      "end": 7,
+      "span": "□",
+      "reason": "illegible",
+      "review_status": "open"
+    },
+    {
       "unit_id": "f06-right-red_head_note-04",
       "begin": 0,
       "end": 1,
       "span": "□",
       "reason": "illegible",
+      "review_status": "open"
+    },
+    {
+      "unit_id": "f06-left-body-10",
+      "begin": 9,
+      "end": 13,
+      "span": "〔缺損〕",
+      "reason": "physical_damage",
+      "review_status": "open"
+    },
+    {
+      "unit_id": "f07-right-body-01",
+      "begin": 10,
+      "end": 14,
+      "span": "〔缺損〕",
+      "reason": "physical_damage",
       "review_status": "open"
     },
     {
@@ -1907,7 +1929,7 @@
       "anchor_mode": "text_neighborhood_in_writing_column",
       "anchors": [
         {
-          "text": "余嘗然",
+          "text": "余喟然",
           "offset_candidates": [
             [
               8,
@@ -2648,7 +2670,7 @@
           ]
         },
         {
-          "text": "不能前",
+          "text": "不能捫",
           "offset_candidates": [
             [
               2,
@@ -2678,7 +2700,7 @@
       "anchor_mode": "text_neighborhood_in_writing_column",
       "anchors": [
         {
-          "text": "淋自不能前又不能起卧",
+          "text": "淋自不能捫又不能起卧",
           "offset_candidates": [
             [
               0,
@@ -2978,7 +3000,7 @@
           ]
         },
         {
-          "text": "魚腸者",
+          "text": "魚腦者",
           "offset_candidates": [
             [
               10,
@@ -3320,7 +3342,7 @@
       "anchor_mode": "text_neighborhood_in_writing_column",
       "anchors": [
         {
-          "text": "蘭製杖将刺之",
+          "text": "蘭製板将刺之",
           "offset_candidates": [
             [
               3,
@@ -3341,7 +3363,7 @@
       "anchor_mode": "text_neighborhood_in_writing_column",
       "anchors": [
         {
-          "text": "留此余示",
+          "text": "留此余不",
           "offset_candidates": [
             [
               12,
@@ -4112,7 +4134,7 @@
           ]
         },
         {
-          "text": "則云",
+          "text": "例云",
           "offset_candidates": [
             [
               11,
@@ -4530,6 +4552,48 @@
         }
       ],
       "resolution": "unresolved"
+    },
+    {
+      "id": "red-review-01",
+      "frame": 5,
+      "side": "right",
+      "target_unit_id": "f05-right-red_comment-02",
+      "related_inline_unit": "f05-right-red-inline-review-01",
+      "mark": "addition",
+      "layer": "manuscript_red_ink",
+      "note": "效的右上側小字，所在欄亦為朱筆，實際層別為行間增字，另掛原詞。",
+      "anchors": [
+        {
+          "text": "效",
+          "offset_candidates": [
+            [
+              3,
+              4
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "red-review-02",
+      "frame": 5,
+      "side": "right",
+      "target_unit_id": "f05-right-red_comment-02",
+      "related_inline_unit": "f05-right-red-inline-review-02",
+      "mark": "addition",
+      "layer": "manuscript_red_ink",
+      "note": "後與人間、主欄右側細朱字；正文欄沿用後人，另掛此添加。",
+      "anchors": [
+        {
+          "text": "後人",
+          "offset_candidates": [
+            [
+              12,
+              14
+            ]
+          ]
+        }
+      ]
     }
   ],
   "pdf_sha256": "308f40418d1d12d0de6a4952b00b0b32dc8904ca22acd4a3c4509f8814abf366",

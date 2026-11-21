@@ -1,0 +1,904 @@
+{
+  "changes": [
+    {
+      "unit": "f03-left-body-05",
+      "before": "死到",
+      "after": "危刻",
+      "reason": "倒數三、二字前者下從㔾、後者右側立刀且左上從亥。複核讀危刻。",
+      "source": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page3",
+      "stage": "earlier-targeted-review"
+    },
+    {
+      "unit": "f05-left-body-07",
+      "before": "魚腸",
+      "after": "魚腦",
+      "reason": "魚下字左月，右上巛，右下方圍內有筆。原圖作腦。",
+      "source": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page5",
+      "stage": "earlier-targeted-review"
+    },
+    {
+      "unit": "f04-right-body-04",
+      "frame": 4,
+      "side": "right",
+      "before": "余嘗然",
+      "after": "余喟然",
+      "reason": "中間字左見小口，右有上方田形及下接月形筆畫，構形為喟。黑墨主欄。",
+      "bbox": [
+        1265,
+        725,
+        1334,
+        878
+      ],
+      "coordinate_basis": "1600 × 1278 color preview; xyxy full frame; Unicode codepoint offsets start at zero.",
+      "source": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page4",
+      "preview_sha256": "b93abc4894a236f1e3bd30a1cb5b81edbc208bba9d8791df8bed0e66cd3d70e5"
+    },
+    {
+      "unit": "f04-left-body-06",
+      "frame": 4,
+      "side": "left",
+      "before": "仲秋会于東都",
+      "after": "仲秋念二於東都",
+      "reason": "秋下依序, 有人字頭與心式末筆字形、獨立短二橫、左方右兩筆，才到東都。念二保留手稿字樣，讀作廿二的建議另記。",
+      "bbox": [
+        288,
+        685,
+        345,
+        982
+      ],
+      "coordinate_basis": "1600 × 1278 color preview; xyxy full frame; Unicode codepoint offsets start at zero.",
+      "source": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page4",
+      "preview_sha256": "b93abc4894a236f1e3bd30a1cb5b81edbc208bba9d8791df8bed0e66cd3d70e5"
+    },
+    {
+      "unit": "f04-left-red_comment-03",
+      "frame": 4,
+      "side": "left",
+      "before": "臨危濟厄",
+      "after": "臨危避厄",
+      "reason": "危後字左下長走之筆，右上疊口框。與同欄其後「而濟」的水旁寫法可直接比較。",
+      "bbox": [
+        56,
+        552,
+        115,
+        766
+      ],
+      "coordinate_basis": "1600 × 1278 color preview; xyxy full frame; Unicode codepoint offsets start at zero.",
+      "source": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page4",
+      "preview_sha256": "b93abc4894a236f1e3bd30a1cb5b81edbc208bba9d8791df8bed0e66cd3d70e5"
+    },
+    {
+      "unit": "f05-right-red_comment-02",
+      "frame": 5,
+      "side": "right",
+      "before": "隨手奏效",
+      "after": "隨手效",
+      "reason": "奏是另筆寫於效的右上方，效與手處在大字主欄。奏須另留行間朱筆，不併入主欄。",
+      "bbox": [
+        1403,
+        420,
+        1458,
+        531
+      ],
+      "coordinate_basis": "1600 × 1278 color preview; xyxy full frame; Unicode codepoint offsets start at zero.",
+      "source": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page5",
+      "preview_sha256": "f2b1e9c629a69093ac6c34437ef07ba2b9f57d2f00d81c778309095303df347d"
+    },
+    {
+      "unit": "f05-left-body-02",
+      "frame": 5,
+      "side": "left",
+      "before": "不能前又",
+      "after": "不能捫又",
+      "reason": "能下字左有狹長手旁，右側呈雙扉門形並見右豎鉤；可與同頁的前字相區別。",
+      "bbox": [
+        529,
+        482,
+        588,
+        662
+      ],
+      "coordinate_basis": "1600 × 1278 color preview; xyxy full frame; Unicode codepoint offsets start at zero.",
+      "source": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page5",
+      "preview_sha256": "f2b1e9c629a69093ac6c34437ef07ba2b9f57d2f00d81c778309095303df347d"
+    },
+    {
+      "unit": "f06-right-body-03",
+      "frame": 6,
+      "side": "right",
+      "before": "留此余示",
+      "after": "留此余不",
+      "reason": "余下黑字為橫頂與分筆的「不」；下一主欄首見「可刺之」。朱筆長括線框住本段，字仍可分辨。",
+      "bbox": [
+        1337,
+        944,
+        1398,
+        1157
+      ],
+      "coordinate_basis": "1600 × 1278 color preview; xyxy full frame; Unicode codepoint offsets start at zero.",
+      "source": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page6",
+      "preview_sha256": "8c086206fe34f7e60de5fbf3e567dab192dead105f59e22be576a4dff8211097"
+    },
+    {
+      "unit": "f06-right-body-03",
+      "frame": 6,
+      "side": "right",
+      "before": "蘭製杖",
+      "after": "蘭製板",
+      "reason": "製下從木，右邊有反的斜撇與末段交叉筆，同幅朱眉批重述可對讀。",
+      "bbox": [
+        1337,
+        475,
+        1396,
+        627
+      ],
+      "coordinate_basis": "1600 × 1278 color preview; xyxy full frame; Unicode codepoint offsets start at zero.",
+      "source": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page6",
+      "preview_sha256": "8c086206fe34f7e60de5fbf3e567dab192dead105f59e22be576a4dff8211097"
+    },
+    {
+      "unit": "f06-right-red_head_note-01",
+      "frame": 6,
+      "side": "right",
+      "before": "云フ智玄何",
+      "after": "云フ□ノ字何",
+      "reason": "疑字之後右側見細短「ノ」與主列明確「字何」；疑字左部似金，右部尚未定，保留□，不取智或鑿作定字。",
+      "bbox": [
+        1335,
+        148,
+        1400,
+        308
+      ],
+      "coordinate_basis": "1600 × 1278 color preview; xyxy full frame; Unicode codepoint offsets start at zero.",
+      "source": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page6",
+      "preview_sha256": "8c086206fe34f7e60de5fbf3e567dab192dead105f59e22be576a4dff8211097"
+    },
+    {
+      "unit": "f06-right-red_head_note-01",
+      "frame": 6,
+      "side": "right",
+      "before": "蘭製杖",
+      "after": "蘭製板",
+      "reason": "製下紅字右件首撇及下交叉筆同主欄所見板，左件為木。",
+      "bbox": [
+        1338,
+        34,
+        1393,
+        160
+      ],
+      "coordinate_basis": "1600 × 1278 color preview; xyxy full frame; Unicode codepoint offsets start at zero.",
+      "source": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page6",
+      "preview_sha256": "8c086206fe34f7e60de5fbf3e567dab192dead105f59e22be576a4dff8211097"
+    },
+    {
+      "unit": "f06-right-red_comment-04",
+      "frame": 6,
+      "side": "right",
+      "before": "已故附言之",
+      "after": "已故聊告之",
+      "reason": "已故後一字左側耳筆與右側卯形兩豎連筆；次有明確下口及上方交會橫筆。整欄朱墨。",
+      "bbox": [
+        935,
+        503,
+        985,
+        679
+      ],
+      "coordinate_basis": "1600 × 1278 color preview; xyxy full frame; Unicode codepoint offsets start at zero.",
+      "source": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page6",
+      "preview_sha256": "8c086206fe34f7e60de5fbf3e567dab192dead105f59e22be576a4dff8211097"
+    },
+    {
+      "unit": "f07-right-body-06",
+      "frame": 7,
+      "side": "right",
+      "before": "也則云",
+      "after": "也例云",
+      "reason": "也下字左見人旁，右近列，是例；可與鄰欄「是則」的則形對照。",
+      "bbox": [
+        1164,
+        843,
+        1230,
+        1000
+      ],
+      "coordinate_basis": "1600 × 1278 color preview; xyxy full frame; Unicode codepoint offsets start at zero.",
+      "source": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page7",
+      "preview_sha256": "769a0ffbf43d9b0a166c00892f5e221b8523dfc21c8f33e4fbe9b22e1870cd9d"
+    },
+    {
+      "unit": "f07-left-red_comment-04",
+      "frame": 7,
+      "side": "left",
+      "before": "素願挫折",
+      "after": "志氣摧折",
+      "reason": "「是以」後見心底的志、氣形長鉤，第三字從手右側從崔。",
+      "bbox": [
+        176,
+        896,
+        235,
+        1085
+      ],
+      "coordinate_basis": "1600 × 1278 color preview; xyxy full frame; Unicode codepoint offsets start at zero.",
+      "source": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page7",
+      "preview_sha256": "769a0ffbf43d9b0a166c00892f5e221b8523dfc21c8f33e4fbe9b22e1870cd9d"
+    },
+    {
+      "unit": "f07-left-red_comment-05",
+      "frame": 7,
+      "side": "left",
+      "before": "如手青",
+      "after": "如予青",
+      "reason": "如後字橫折向下再鉤，無手的交叉；與同幅左三朱欄「此予」字形相應。",
+      "bbox": [
+        116,
+        1004,
+        176,
+        1134
+      ],
+      "coordinate_basis": "1600 × 1278 color preview; xyxy full frame; Unicode codepoint offsets start at zero.",
+      "source": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page7",
+      "preview_sha256": "769a0ffbf43d9b0a166c00892f5e221b8523dfc21c8f33e4fbe9b22e1870cd9d"
+    },
+    {
+      "unit": "f08-right-red_comment-03",
+      "frame": 8,
+      "side": "right",
+      "before": "自鑑矣",
+      "after": "自警耳",
+      "reason": "自下重見同欄起首的警字形，次字直下與長細朱線相連，見耳輪廓，與前述警字重現關係相符。",
+      "bbox": [
+        1338,
+        514,
+        1394,
+        636
+      ],
+      "coordinate_basis": "1600 × 1278 color preview; xyxy full frame; Unicode codepoint offsets start at zero.",
+      "source": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page8",
+      "preview_sha256": "ee6f772f659fe39edc8202eb210b27acef233bc5bfcf3ac53105353019ee34fc"
+    },
+    {
+      "unit": "f04-left-body-07",
+      "frame": 4,
+      "side": "left",
+      "before": "池田午",
+      "after": "池田平",
+      "reason": "田下字頂一撇、左右兩點分見並與下橫貫豎，為平；只訂署記位置，維持全冊作者未定。",
+      "bbox": [
+        228,
+        747,
+        289,
+        878
+      ],
+      "coordinate_basis": "1600 × 1278 color preview; xyxy full frame; Unicode codepoint offsets start at zero.",
+      "source": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page4",
+      "preview_sha256": "b93abc4894a236f1e3bd30a1cb5b81edbc208bba9d8791df8bed0e66cd3d70e5"
+    },
+    {
+      "unit": "f03-left-body-10",
+      "frame": 3,
+      "side": "left",
+      "before": "人□〔缺損〕虎",
+      "after": "人□又〔缺損〕虎",
+      "reason": "紙傷帶內人下留一個未定字殘墨，再下獨立黑字見交叉短筆與下段彎撇，為又。又下至虎前仍破損，缺損長度未定。",
+      "bbox": [
+        50,
+        793,
+        111,
+        1021
+      ],
+      "coordinate_basis": "1600 × 1278 color preview; xyxy full frame; Unicode codepoint offsets start at zero.",
+      "source": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page3",
+      "preview_sha256": "3496444794618d997ccf546e185711670c98af74a79c3101c970fc9ca771a88e"
+    },
+    {
+      "unit": "f05-right-red-inline-review-01",
+      "frame": 5,
+      "side": "right",
+      "before": null,
+      "after": "奏",
+      "reason": "效的右上側小字，所在欄亦為朱筆，實際層別為行間增字，另掛原詞。",
+      "action": "create_red_inline_unit_from_main_column_removal",
+      "source": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page5",
+      "bbox": [
+        1434,
+        475,
+        1459,
+        519
+      ],
+      "coordinate_basis": "1600 × 1278 color preview; xyxy full frame; Unicode codepoint offsets start at zero."
+    },
+    {
+      "unit": "f05-right-red-inline-review-02",
+      "frame": 5,
+      "side": "right",
+      "before": null,
+      "after": "之",
+      "reason": "後與人間、主欄右側細朱字；正文欄沿用後人，另掛此添加。",
+      "action": "create_red_inline_unit_newly_recorded",
+      "source": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page5",
+      "bbox": [
+        1434,
+        885,
+        1469,
+        930
+      ],
+      "coordinate_basis": "1600 × 1278 color preview; xyxy full frame; Unicode codepoint offsets start at zero."
+    }
+  ],
+  "unresolved": [
+    {
+      "unit_id": "f02-left-inner_title-01",
+      "status": "候選未決",
+      "bbox_preview_px": "478,213,565,360",
+      "candidates": "己未｜乙卯",
+      "note": "先獨立讀乙卯；首字下卷且上方兩離點，第二字環筆壓縮。兩字均先沿舊讀並掛疑，不能用墨批年代決定題記。",
+      "source": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page2"
+    },
+    {
+      "unit_id": "f02-left-inner_title-02",
+      "status": "字形未決",
+      "bbox_preview_px": "345,246,497,626",
+      "candidates": "医案｜醫案",
+      "note": "內題首字有上橫、匚形長鉤，封面另有完整醫，下聯案清楚；手稿草書與正字對應未裁決。",
+      "source": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page2"
+    },
+    {
+      "unit_id": "f02-left-inner_annotation-01",
+      "status": "候選未決",
+      "bbox_preview_px": "61,664,197,1202",
+      "candidates": "庄内□齋□｜□日參□之",
+      "note": "首字疑廣框，次字一大弧夾一點，無明顯日字橫欄，末有卷筆。文內署記身分未核。",
+      "source": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page2"
+    },
+    {
+      "unit_id": "f03-left-body-03",
+      "status": "候選未決",
+      "bbox_preview_px": "468,377,517,456",
+      "candidates": "癥｜瘥｜症",
+      "note": "疒下殘筆交疊；不改。有與同面紅症不同的筆勢。",
+      "source": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page3"
+    },
+    {
+      "unit_id": "f03-left-body-05",
+      "status": "候選未決",
+      "bbox_preview_px": "345,951,405,1141",
+      "candidates": "危刻｜乍刻",
+      "note": "危／乍的草寫相近；末脈類字的碼位選擇保持現行。",
+      "source": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page3"
+    },
+    {
+      "unit_id": "f03-left-body-07",
+      "status": "字形待定",
+      "bbox_preview_px": "229,1095,283,1155",
+      "candidates": "黃｜黄",
+      "note": "橫下口形收筆草寫，不能以常用實體碼位覆掉既有字。",
+      "source": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page3"
+    },
+    {
+      "unit_id": "f03-left-body-10",
+      "status": "原件缺損",
+      "bbox_preview_px": "48,789,112,1027",
+      "candidates": "參｜参｜未解",
+      "note": "人下偏右存墨線，不足核人參之參碼位。又可分讀，仍另有實際紙傷。",
+      "source": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page3"
+    },
+    {
+      "unit_id": "f03-left-red_head_note-01",
+      "status": "候選未決",
+      "bbox_preview_px": "272,39,329,320",
+      "candidates": "現症不盡于此宜□□",
+      "note": "宜相對明顯，尾二字重疊且朱黑濃度變化，不補猜。",
+      "source": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page3"
+    },
+    {
+      "unit_id": "f04-right-body-01",
+      "status": "原件缺損",
+      "bbox_preview_px": "1457,788,1517,991",
+      "candidates": "一｜矣｜未解",
+      "note": "破紙區上端可見一橫交朱，中部兩處殘墨，低端一筆可能是矣。現有缺損標記保留。",
+      "source": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page4"
+    },
+    {
+      "unit_id": "f04-right-body-04",
+      "status": "候選未決",
+      "bbox_preview_px": "1287,578,1335,732",
+      "candidates": "是歟矣｜長歎矣",
+      "note": "首二字受紅筆；可辨圓形與口筆，裁成已確部分余喟然。",
+      "source": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page4"
+    },
+    {
+      "unit_id": "f04-right-body-05",
+      "status": "候選未決",
+      "bbox_preview_px": "1225,1024,1288,1157",
+      "candidates": "櫃｜握",
+      "note": "書下字左細旁右多筆，下部受朱；囘與寐的初錄較相近，保留。",
+      "source": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page4"
+    },
+    {
+      "unit_id": "f04-right-body-07",
+      "status": "候選未決",
+      "bbox_preview_px": "1099,664,1169,772",
+      "candidates": "覺｜頗",
+      "note": "左下可見覆寫，旁有稍；覺下有見的環筆輪廓，偏舊讀。",
+      "source": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page4"
+    },
+    {
+      "unit_id": "f04-right-black_head_note-01",
+      "status": "細墨可見但未決",
+      "bbox_preview_px": "1197,45,1253,326",
+      "candidates": "霍亂又曰先之所□□｜□□國□□先生所著□□",
+      "note": "最右細黑列視讀至涉所著；中段大框像亂的包圍或國，尾與鄰筆相接。",
+      "source": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page4"
+    },
+    {
+      "unit_id": "f04-right-black_head_note-02",
+      "status": "細墨可見但未決",
+      "bbox_preview_px": "1171,45,1210,326",
+      "candidates": "治溫熱有醫証症□",
+      "note": "列首「治」較清楚，末行有接近證候的字形，濃淡相疊。",
+      "source": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page4"
+    },
+    {
+      "unit_id": "f04-right-black_head_note-03",
+      "status": "部分辨出",
+      "bbox_preview_px": "1149,44,1181,325",
+      "candidates": "□□進退發□",
+      "note": "中段辶類兩連字可辨進退，末字被鄰欄勾連。",
+      "source": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page4"
+    },
+    {
+      "unit_id": "f04-right-black_head_note-04",
+      "status": "細墨可見但未決",
+      "bbox_preview_px": "1121,41,1154,325",
+      "candidates": "□□□血□",
+      "note": "中央有類竖勾與長橫，血的讀法不敢核定。",
+      "source": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page4"
+    },
+    {
+      "unit_id": "f04-right-black_head_note-05",
+      "status": "部分辨出",
+      "bbox_preview_px": "1077,42,1134,325",
+      "candidates": "從前□進□□",
+      "note": "靠左中部首段見從前，尾部與鄰欄柔線疊。",
+      "source": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page4"
+    },
+    {
+      "unit_id": "f04-right-black_head_note-06",
+      "status": "部分辨出",
+      "bbox_preview_px": "1051,44,1101,325",
+      "candidates": "腸□□",
+      "note": "最左近外圓的大字下筆像腸，後續有複筆不能判。",
+      "source": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page4"
+    },
+    {
+      "unit_id": "f04-right-red_inline-05",
+      "status": "跨層待核",
+      "bbox_preview_px": "1213,649,1243,697",
+      "candidates": "稍",
+      "note": "右側小朱字近覺，有禾旁相似筆，尾筆與欄線疊。",
+      "source": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page4"
+    },
+    {
+      "unit_id": "f04-right-red_inline-06",
+      "status": "跨層待核",
+      "bbox_preview_px": "1080,910,1129,991",
+      "candidates": "問之",
+      "note": "朱筆分兩處，首字與黑問合疊，次字之可辨。",
+      "source": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page4"
+    },
+    {
+      "unit_id": "f04-left-body-02",
+      "status": "字形待定",
+      "bbox_preview_px": "526,559,583,1078",
+      "candidates": "吴｜呉；黃｜黄",
+      "note": "保留舊文精確碼位，兩組皆為手寫近形。",
+      "source": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page4"
+    },
+    {
+      "unit_id": "f04-left-body-04",
+      "status": "候選未決",
+      "bbox_preview_px": "406,495,469,742",
+      "candidates": "嘻嗟是以｜嗚嗟是術",
+      "note": "兩組異讀附近有長圈線與塗抹；尚不能釐清誰改哪字。",
+      "source": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page4"
+    },
+    {
+      "unit_id": "f04-left-body-07",
+      "status": "署記候選",
+      "bbox_preview_px": "228,554,287,754",
+      "candidates": "秦齋｜春齋",
+      "note": "秦／春末筆已放大但仍近形，初錄「秦齋」維持待議。池田後的平另外作訂正。",
+      "source": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page4"
+    },
+    {
+      "unit_id": "f04-left-red_head_note-01",
+      "status": "部分辨出",
+      "bbox_preview_px": "338,40,394,250",
+      "candidates": "雀躍二字置之亦可",
+      "note": "朱眉確有二字、置、之、可；首二紅字與黑欄雀躍相鄰連線，細字仍待核。",
+      "source": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page4"
+    },
+    {
+      "unit_id": "f04-left-red_inline-02",
+      "status": "跨層待核",
+      "bbox_preview_px": "481,914,557,1224",
+      "candidates": "病之□有病有□則",
+      "note": "沿括線由主欄下出框；界下紅「則」可確，所接位置未全核。",
+      "source": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page4"
+    },
+    {
+      "unit_id": "f04-left-red_inline-04",
+      "status": "跨層待核",
+      "bbox_preview_px": "404,1158,462,1248",
+      "candidates": "條然｜懍然｜□然",
+      "note": "下框黑污覆首字，末然清楚。首字保留候選。",
+      "source": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page4"
+    },
+    {
+      "unit_id": "f04-left-red_comment-01",
+      "status": "字形待定",
+      "bbox_preview_px": "171,375,228,1151",
+      "candidates": "惡疫；或医治乖誤目",
+      "note": "惡疫可見心底；後段醫字上下壓縮，乖所在是否連字待核。",
+      "source": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page4"
+    },
+    {
+      "unit_id": "f04-left-red_comment-03",
+      "status": "原件缺損",
+      "bbox_preview_px": "50,816,111,1060",
+      "candidates": "少｜未解",
+      "note": "其生也之後遇左紙緣掀損，尾可見少形局部，先維持缺損標記。",
+      "source": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page4"
+    },
+    {
+      "unit_id": "f05-right-red_comment-01",
+      "status": "原件缺損",
+      "bbox_preview_px": "1455,817,1519,992",
+      "candidates": "相見｜明且｜未解",
+      "note": "紙傷間只能辨幾筆；重文和上下界依初錄。",
+      "source": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page5"
+    },
+    {
+      "unit_id": "f05-right-red_comment-02",
+      "status": "跨層待核",
+      "bbox_preview_px": "1397,1063,1451,1154",
+      "candidates": "去｜哉",
+      "note": "末字有土樣上部和下點，與旁欄哉不同；保留舊去及另一候選。奏與之另列插筆。",
+      "source": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page5"
+    },
+    {
+      "unit_id": "f05-right-red_comment-04",
+      "status": "候選未決",
+      "bbox_preview_px": "1277,553,1337,889",
+      "candidates": "孫真人曰學無日夜行｜孫真人曰晝無日夜行",
+      "note": "放大後稱謂可依舊，曰下字疑學／晝，頭部有平四形或臼；無外本補字。",
+      "source": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page5"
+    },
+    {
+      "unit_id": "f05-left-body-01",
+      "status": "候選未決",
+      "bbox_preview_px": "588,899,651,970",
+      "candidates": "臂｜臀",
+      "note": "上半輪廓有連筆而下見月，先維持臂。",
+      "source": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page5"
+    },
+    {
+      "unit_id": "f05-left-body-02",
+      "status": "部分辨出",
+      "bbox_preview_px": "527,331,591,409",
+      "candidates": "淋｜刺",
+      "note": "首字左水樣兩點，右件連畫；候選留，前→捫的另一處可確。",
+      "source": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page5"
+    },
+    {
+      "unit_id": "f05-left-body-05",
+      "status": "候選未決",
+      "bbox_preview_px": "354,742,413,885",
+      "candidates": "□｜幾｜及",
+      "note": "朱加須臾與黑件連筆，此字近曲鉤，保留□。",
+      "source": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page5"
+    },
+    {
+      "unit_id": "f05-left-body-06",
+      "status": "候選未決",
+      "bbox_preview_px": "294,330,356,1155",
+      "candidates": "椀／掬；即；慶；諸多",
+      "note": "量詞確有側旁窄筆，與第8欄首字同形；多重覆墨其它字未決。",
+      "source": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page5"
+    },
+    {
+      "unit_id": "f05-left-body-08",
+      "status": "候選未決",
+      "bbox_preview_px": "178,332,238,1042",
+      "candidates": "椀｜掬；圍｜圊",
+      "note": "首字與第6欄量詞同形；圍字框內橫折重疊，可能是青但未定。",
+      "source": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page5"
+    },
+    {
+      "unit_id": "f05-left-body-10",
+      "status": "字形待定",
+      "bbox_preview_px": "61,568,120,673",
+      "candidates": "飮｜飲",
+      "note": "食左件內部草形，維持初錄碼位。",
+      "source": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page5"
+    },
+    {
+      "unit_id": "f05-left-red_inline-03",
+      "status": "跨層待核",
+      "bbox_preview_px": "546,573,588,624",
+      "candidates": "便｜遍",
+      "note": "右側小紅字，捫、又之間，形末環筆不確。",
+      "source": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page5"
+    },
+    {
+      "unit_id": "f05-left-red_inline-05",
+      "status": "跨層待核",
+      "bbox_preview_px": "467,594,499,651",
+      "candidates": "始",
+      "note": "近非筆旁，細上部覆在欄線，尾部近台。",
+      "source": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page5"
+    },
+    {
+      "unit_id": "f05-left-red_inline-07",
+      "status": "跨層待核",
+      "bbox_preview_px": "328,866,373,1236",
+      "candidates": "藥效如此命亦無恙願",
+      "note": "從黑「慶」附近向下外圍延伸，尾恙願清楚；部分細筆受過朱黑覆筆。",
+      "source": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page5"
+    },
+    {
+      "unit_id": "f05-left-red_inline-10",
+      "status": "跨層待核",
+      "bbox_preview_px": "213,475,249,513",
+      "candidates": "頓",
+      "note": "脫右小朱，右部覆筆，讀法僅候選。",
+      "source": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page5"
+    },
+    {
+      "unit_id": "f05-left-red_inline-14",
+      "status": "跨層待核",
+      "bbox_preview_px": "219,1176,268,1227",
+      "candidates": "遲｜逕",
+      "note": "上引朱線連續，旁字走之末長，右上筆畫較密。",
+      "source": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page5"
+    },
+    {
+      "unit_id": "f06-right-body-01",
+      "status": "原件缺損",
+      "bbox_preview_px": "1447,749,1514,1008",
+      "candidates": "□十餘",
+      "note": "紙傷殘見前文字跡，十與餘間讀序清楚；麹／麴另屬異體候選。",
+      "source": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page6"
+    },
+    {
+      "unit_id": "f06-right-body-04",
+      "status": "候選未決",
+      "bbox_preview_px": "1277,724,1336,946",
+      "candidates": "濁淋溝｜湧淋漓｜涌淋漓",
+      "note": "三單字作詞組比較，首字右部似甬，也可能濁之省寫；末字朱書流覆近，未裁。",
+      "source": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page6"
+    },
+    {
+      "unit_id": "f06-right-body-05",
+      "status": "候選未決",
+      "bbox_preview_px": "1224,436,1277,494",
+      "candidates": "瘀｜癰",
+      "note": "該字右下折收小，初錄瘀較近，但草筆不作強訂。",
+      "source": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page6"
+    },
+    {
+      "unit_id": "f06-right-red_head_note-01",
+      "status": "跨層細墨未決",
+      "bbox_preview_px": "1339,36,1403,312",
+      "candidates": "蘭製板ト云フ□ノ字何；□候選為鑿、鑰、鐫",
+      "note": "印加欄改正所見明文，疑字保留；字旁小駐點與假名分開。",
+      "source": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page6"
+    },
+    {
+      "unit_id": "f06-right-red_head_note-03",
+      "status": "候選未決",
+      "bbox_preview_px": "1249,169,1306,315",
+      "candidates": "蓋就柳葉鍼｜造就柳葉鍼",
+      "note": "最上一字左下近辶，亦可能是一引線帶出；柳葉鍼可辨。",
+      "source": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page6"
+    },
+    {
+      "unit_id": "f06-right-red_head_note-04",
+      "status": "細墨可見但未決",
+      "bbox_preview_px": "1238,236,1271,314",
+      "candidates": "□ンセツカ｜テンセツカ",
+      "note": "細窄片假名末四筆似「ンセツカ」，首字未決。",
+      "source": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page6"
+    },
+    {
+      "unit_id": "f06-right-red_inline-08",
+      "status": "跨層待核",
+      "bbox_preview_px": "1323,1159,1391,1241",
+      "candidates": "不利於｜不則□",
+      "note": "第四朱區字密，可能「則」在右側，細線跨出框下。",
+      "source": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page6"
+    },
+    {
+      "unit_id": "f06-right-red_comment-01",
+      "status": "字形待定",
+      "bbox_preview_px": "1110,593,1161,673",
+      "candidates": "黃｜黄",
+      "note": "大黃的黃以底本手寫為準，未擅改字碼。",
+      "source": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page6"
+    },
+    {
+      "unit_id": "f06-right-red_comment-03",
+      "status": "跨層待核",
+      "bbox_preview_px": "991,783,1053,1157",
+      "candidates": "可此篇｜可也此篇；屬｜應",
+      "note": "可近右下小朱滴是否也篆樣不明；末字出框旁保留屬。",
+      "source": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page6"
+    },
+    {
+      "unit_id": "f06-left-body-10",
+      "status": "原件缺損",
+      "bbox_preview_px": "62,783,113,960",
+      "candidates": "曰｜未解",
+      "note": "經下一字損邊留淡短折近曰，字框不全；缺損資訊保留。",
+      "source": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page6"
+    },
+    {
+      "unit_id": "f07-right-body-01",
+      "status": "原件缺損",
+      "bbox_preview_px": "1450,759,1516,983",
+      "candidates": "續｜實；下｜利",
+      "note": "上部像續之糸與右連筆；下段只餘半筆，原缺損及兩疑讀保留。",
+      "source": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page7"
+    },
+    {
+      "unit_id": "f07-right-body-04",
+      "status": "候選未決",
+      "bbox_preview_px": "1282,685,1334,772",
+      "candidates": "症｜證｜癥",
+      "note": "似疒下另複筆，不能與 p07 左欄清楚的證全域統一。",
+      "source": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page7"
+    },
+    {
+      "unit_id": "f07-left-red_comment-02",
+      "status": "候選未決",
+      "bbox_preview_px": "293,387,352,1150",
+      "candidates": "我等醫｜義多醫；此書者｜此四篇；仁心乎｜仁尚矣",
+      "note": "三段草形均需手稿專家，尤其實際是否寫兩 3 字組。",
+      "source": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page7"
+    },
+    {
+      "unit_id": "f07-left-red_comment-03",
+      "status": "候選未決",
+      "bbox_preview_px": "233,382,291,1149",
+      "candidates": "林｜州；窮留｜羈留",
+      "note": "欄首三豎、無木旁偏州；羈筆絡與窮形難分。",
+      "source": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page7"
+    },
+    {
+      "unit_id": "f07-left-red_comment-04",
+      "status": "候選未決",
+      "bbox_preview_px": "176,680,235,819",
+      "candidates": "羽翩｜羽翮｜羽翻",
+      "note": "羽後字右部似羽，左部有竖與斜筆，保留分歧，另一處「志氣摧折」已明確。",
+      "source": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page7"
+    },
+    {
+      "unit_id": "f07-left-red_comment-05",
+      "status": "原件缺損",
+      "bbox_preview_px": "117,840,176,1046",
+      "candidates": "悔；於予有是矣｜未解",
+      "note": "中段紙損及朱筆變淡；末如予青可確。",
+      "source": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page7"
+    },
+    {
+      "unit_id": "f07-left-red_comment-06",
+      "status": "原件缺損",
+      "bbox_preview_px": "52,609,115,1147",
+      "candidates": "慥｜態；沛然｜□然",
+      "note": "州界左大片磨損，案照原有缺損；末三字錄舊。",
+      "source": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page7"
+    },
+    {
+      "unit_id": "f08-right-red_comment-01",
+      "status": "原件缺損",
+      "bbox_preview_px": "1451,385,1519,1153",
+      "candidates": "可語｜可禦；其為可談耳｜是為可羨耳；今日（行側）",
+      "note": "紙傷加另一小朱列，勿按讀序填補原缺；左旁末兩小字今日可作獨立候選。",
+      "source": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page8"
+    },
+    {
+      "unit_id": "f08-right-red_comment-02",
+      "status": "候選未決",
+      "bbox_preview_px": "1395,737,1456,1127",
+      "candidates": "其餘在可顧而已｜甚餘在可顧而已",
+      "note": "多次朱改，筆色疊加；維持欄字及原有注記。",
+      "source": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page8"
+    },
+    {
+      "unit_id": "f08-right-red_comment-03",
+      "status": "候選未決",
+      "bbox_preview_px": "1337,901,1395,993",
+      "candidates": "識語｜□也",
+      "note": "厚重朱團與末字上橫掩，維持初錄並標疑。",
+      "source": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page8"
+    },
+    {
+      "unit_id": "f08-right-red_comment-04",
+      "status": "候選未決",
+      "bbox_preview_px": "1281,584,1329,649",
+      "candidates": "冬｜夏",
+      "note": "高倍看仲下一字下方似為連帶雙點，偏冬；既有多讀候選，正文維持□。",
+      "source": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page8"
+    },
+    {
+      "unit_id": "f08-right-red_inline-01",
+      "status": "跨層待核",
+      "bbox_preview_px": "1439,568,1467,747",
+      "candidates": "不學將何如｜不□將何如",
+      "note": "中段朱筆交另有筆痕，首不與將何如較可辨，細字待核。",
+      "source": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page8"
+    },
+    {
+      "unit_id": "f08-right-red_inline-02",
+      "status": "跨層待核",
+      "bbox_preview_px": "1425,913,1467,1001",
+      "candidates": "之為｜之□□",
+      "note": "兩行夾朱之一，第二字遇紙缺與跨線，保留候選。",
+      "source": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page8"
+    },
+    {
+      "unit_id": "f04-left-body-03",
+      "status": "字形待定",
+      "bbox_preview_px": "471,376,526,464",
+      "candidates": "黃｜黄",
+      "note": "三下一字底部兩開筆、中段書體省筆，僅保留底本原錄碼位。",
+      "source": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page4"
+    },
+    {
+      "unit_id": "f05-left-body-03",
+      "status": "字形待定",
+      "bbox_preview_px": "472,1078,531,1156",
+      "candidates": "脉｜脈",
+      "note": "欄末右件草筆尾勢與第8欄脉近，未裁字碼級差異。",
+      "source": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page5"
+    }
+  ],
+  "review_counts": {
+    "frames_seen": 9,
+    "units_compared_with_image": 148,
+    "existing_annotation_events_reviewed_by_region": 100,
+    "unit_review_states": {
+      "獨立讀值一致": 34,
+      "候選未決": 24,
+      "字形未決": 1,
+      "字形待定": 7,
+      "保留初錄": 9,
+      "原件缺損": 10,
+      "回圖保留": 3,
+      "回圖確認": 7,
+      "細墨可見但未決": 4,
+      "部分辨出": 5,
+      "跨層可辨": 24,
+      "跨層待核": 14,
+      "圖證訂正": 4,
+      "署記候選": 1,
+      "跨層細墨未決": 1
+    },
+    "event_review_states": {
+      "圈點區已看": 59,
+      "確認側書": 9,
+      "墨朱相疊": 7,
+      "部分受損": 3,
+      "確認側書／替換未定": 4,
+      "細朱未決": 3,
+      "跨欄待核": 9,
+      "確認區域關聯": 3,
+      "確認側書／錨點待核": 1,
+      "確認側書與圈區": 1,
+      "候選維持未決": 1
+    },
+    "independent_first_read_complete": false,
+    "human_review_performed": false,
+    "expert_review_performed": false
+  },
+  "original_initial_sha256": "ac2b16dc31a8fb76342d4005dfe9c26f0e3e4463667c3143674c507d4013cf9c",
+  "scope": "全9幅、148既存文字單元及100組既存朱批區域；細批、筆線與缺損保留未解。"
+}

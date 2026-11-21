@@ -10,10 +10,10 @@
         </respStmt>
       </titleStmt>
       <editionStmt>
-        <edition>0.1.0</edition>
+        <edition>0.2.0</edition>
       </editionStmt>
       <publicationStmt>
-        <p>2026-11-21. AI-assisted initial transcription with source references and marked uncertainties. Human full-text double proofreading, expert review, peer review and accuracy measurement were not performed.</p>
+        <p>2026-11-21. Source-image review compared independent observations with the initial transcription and records 20 image-supported changes. Uncertain readings remain marked. Human full-text double proofreading, expert review, peer review and accuracy measurement were not performed.</p>
       </publicationStmt>
       <sourceDesc>
         <p>慶應義塾大學北里記念醫學圖書館 富士川文庫 F@イ@1 <ref target="https://dcollections.lib.keio.ac.jp/ja/koisho/f-i-1">Source catalogue</ref>
@@ -57,12 +57,12 @@
           <ab type="body" n="f03-left-body-02" xml:id="u-f03-left-body-02">安政戊午之秋都鄙一種之奇病大流布</ab>
           <ab type="body" n="f03-left-body-03" xml:id="u-f03-left-body-03">其癥俄然吐瀉頻數心下有水飲瀝々有</ab>
           <ab type="body" n="f03-left-body-04" xml:id="u-f03-left-body-04">聲掣痛如刀被刺四支厥冷煩燥其緩漫</ab>
-          <ab type="body" n="f03-left-body-05" xml:id="u-f03-left-body-05">者脉微々如蜘蛛之糸其急劇者死到脉</ab>
+          <ab type="body" n="f03-left-body-05" xml:id="u-f03-left-body-05">者脉微々如蜘蛛之糸其急劇者危刻脉</ab>
           <ab type="body" n="f03-left-body-06" xml:id="u-f03-left-body-06">厥或有發轉筋者或有大煩渇喜引冷水</ab>
           <ab type="body" n="f03-left-body-07" xml:id="u-f03-left-body-07">熱湯不入口者或有舌上白胎者或有黃</ab>
           <ab type="body" n="f03-left-body-08" xml:id="u-f03-left-body-08">胎乾而不渇者或有無胎黑舌者或乾燥</ab>
           <ab type="body" n="f03-left-body-09" xml:id="u-f03-left-body-09">或滑澤其佗症候千變万化不暇枚舉於</ab>
-          <ab type="body" n="f03-left-body-10" xml:id="u-f03-left-body-10">此與白虎湯或白虎加人□〔缺損〕虎加桂</ab>
+          <ab type="body" n="f03-left-body-10" xml:id="u-f03-left-body-10">此與白虎湯或白虎加人□又〔缺損〕虎加桂</ab>
           <ab type="red_head_note" n="f03-left-red_head_note-01" xml:id="u-f03-left-red_head_note-01">現症不盡于此宜□□</ab>
           <ab type="red_head_note" n="f03-left-red_head_note-02" xml:id="u-f03-left-red_head_note-02">書之</ab>
           <ab type="red_inline" n="f03-left-red_inline-01" xml:id="u-f03-left-red_inline-01">行</ab>
@@ -74,7 +74,7 @@
           <ab type="body" n="f04-right-body-01" xml:id="u-f04-right-body-01">枝之輩煩渇不減下利〔缺損〕余因思</ab>
           <ab type="body" n="f04-right-body-02" xml:id="u-f04-right-body-02">虚火炎上之所致也再與既濟真武四逆</ab>
           <ab type="body" n="f04-right-body-03" xml:id="u-f04-right-body-03">諸湯亦無寸効而為泉客者不識幾千人</ab>
-          <ab type="body" n="f04-right-body-04" xml:id="u-f04-right-body-04">衆医徒束手是歟矣余嘗然歎息廢業忘</ab>
+          <ab type="body" n="f04-right-body-04" xml:id="u-f04-right-body-04">衆医徒束手是歟矣余喟然歎息廢業忘</ab>
           <ab type="body" n="f04-right-body-05" xml:id="u-f04-right-body-05">寐食沈思數囘無良策一日偶讀書櫃所</ab>
           <ab type="body" n="f04-right-body-06" xml:id="u-f04-right-body-06">藏之痧脹玉衡書然後得清凉至寶飲方</ab>
           <ab type="body" n="f04-right-body-07" xml:id="u-f04-right-body-07">刺絡之術試施之覺有効驗雖然猶未能</ab>
@@ -102,8 +102,8 @@
           <ab type="body" n="f04-left-body-03" xml:id="u-f04-left-body-03">三黃湯之輩亦可也余退而以此方與此</ab>
           <ab type="body" n="f04-left-body-04" xml:id="u-f04-left-body-04">症奏効嘻嗟是以救危篤之者數十許人</ab>
           <ab type="body" n="f04-left-body-05" xml:id="u-f04-left-body-05">不堪雀躍刀圭之餘聊為世俗述其端以</ab>
-          <ab type="body" n="f04-left-body-06" xml:id="u-f04-left-body-06">示同志于時仲秋会于東都長尾氏燈</ab>
-          <ab type="body" n="f04-left-body-07" xml:id="u-f04-left-body-07">下相陽遊學生秦齋池田午謹誌之</ab>
+          <ab type="body" n="f04-left-body-06" xml:id="u-f04-left-body-06">示同志于時仲秋念二於東都長尾氏燈</ab>
+          <ab type="body" n="f04-left-body-07" xml:id="u-f04-left-body-07">下相陽遊學生秦齋池田平謹誌之</ab>
           <ab type="red_head_note" n="f04-left-red_head_note-01" xml:id="u-f04-left-red_head_note-01">雀躍二字置之亦可</ab>
           <ab type="red_inline" n="f04-left-red_inline-01" xml:id="u-f04-left-red_inline-01">其所現</ab>
           <ab type="red_inline" n="f04-left-red_inline-02" xml:id="u-f04-left-red_inline-02">病之□有病有□則</ab>
@@ -111,27 +111,29 @@
           <ab type="red_inline" n="f04-left-red_inline-04" xml:id="u-f04-left-red_inline-04">條然</ab>
           <ab type="red_comment" n="f04-left-red_comment-01" xml:id="u-f04-left-red_comment-01">去歳惡疫之行人多死非命雖曰氣運或医治乖誤目</ab>
           <ab type="red_comment" n="f04-left-red_comment-02" xml:id="u-f04-left-red_comment-02">為泉客者十居六七為司命之官者所以不可不講究</ab>
-          <ab type="red_comment" n="f04-left-red_comment-03" xml:id="u-f04-left-red_comment-03">之於平日臨危濟厄而濟其生也〔缺損〕少傷寒論</ab>
+          <ab type="red_comment" n="f04-left-red_comment-03" xml:id="u-f04-left-red_comment-03">之於平日臨危避厄而濟其生也〔缺損〕少傷寒論</ab>
           <note type="editorial">body_red</note>
         </div>
       </div>
       <div n="5" type="scan" corresp="https://iiif.lib.keio.ac.jp/FJK/F-i-1/pdf/F-i-1.pdf#page=5">
         <div type="surface" n="right">
           <ab type="red_comment" n="f05-right-red_comment-01" xml:id="u-f05-right-red_comment-01">中諄々垂戒萬病千症雖不可〔缺損〕明且於此莫</ab>
-          <ab type="red_comment" n="f05-right-red_comment-02" xml:id="u-f05-right-red_comment-02">不隨手奏效者始少誤人耳何知後人容易讀去</ab>
+          <ab type="red_comment" n="f05-right-red_comment-02" xml:id="u-f05-right-red_comment-02">不隨手效者始少誤人耳何知後人容易讀去</ab>
           <ab type="red_comment" n="f05-right-red_comment-03" xml:id="u-f05-right-red_comment-03">未甞留神于此々尋常疾病猶不能救況於竒</ab>
           <ab type="red_comment" n="f05-right-red_comment-04" xml:id="u-f05-right-red_comment-04">病異症哉孫真人曰學無日夜行動致顛墜嗟今</ab>
           <ab type="red_comment" n="f05-right-red_comment-05" xml:id="u-f05-right-red_comment-05">之為醫者危哉云々</ab>
+          <ab type="red_inline" n="f05-right-red-inline-review-01" xml:id="u-f05-right-red-inline-review-01">奏</ab>
+          <ab type="red_inline" n="f05-right-red-inline-review-02" xml:id="u-f05-right-red-inline-review-02">之</ab>
           <note type="editorial">red_comment</note>
         </div>
         <div type="surface" n="left">
           <ab type="body" n="f05-left-body-01" xml:id="u-f05-left-body-01">一婦新婚不日小腹成塊大如臂其痛如</ab>
-          <ab type="body" n="f05-left-body-02" xml:id="u-f05-left-body-02">淋自不能前又不能起卧大小便共秘衆</ab>
+          <ab type="body" n="f05-left-body-02" xml:id="u-f05-left-body-02">淋自不能捫又不能起卧大小便共秘衆</ab>
           <ab type="body" n="f05-left-body-03" xml:id="u-f05-left-body-03">医為血塊調理其病日重使余診之其脉</ab>
           <ab type="body" n="f05-left-body-04" xml:id="u-f05-left-body-04">沈緊有力余曰非血塊此腸癰膿已成也</ab>
           <ab type="body" n="f05-left-body-05" xml:id="u-f05-left-body-05">使服大黃牡丹皮湯不□時腹中雷鳴忽</ab>
           <ab type="body" n="f05-left-body-06" xml:id="u-f05-left-body-06">下膿一椀痛即減舉家喜曰慶此藥諸多</ab>
-          <ab type="body" n="f05-left-body-07" xml:id="u-f05-left-body-07">服余曰可又與三貼下如魚腸者約六七</ab>
+          <ab type="body" n="f05-left-body-07" xml:id="u-f05-left-body-07">服余曰可又與三貼下如魚腦者約六七</ab>
           <ab type="body" n="f05-left-body-08" xml:id="u-f05-left-body-08">椀苦楚脫然如故自起行圍再診之脉緩</ab>
           <ab type="body" n="f05-left-body-09" xml:id="u-f05-left-body-09">遲轉與千金内托散五六貼氣力復元精</ab>
           <ab type="body" n="f05-left-body-10" xml:id="u-f05-left-body-10">神亦爽慧飮食如常</ab>
@@ -157,11 +159,11 @@
         <div type="surface" n="right">
           <ab type="body" n="f06-right-body-01" xml:id="u-f06-right-body-01">東都麹街大住屋吉兵衞□十餘腹張</ab>
           <ab type="body" n="f06-right-body-02" xml:id="u-f06-right-body-02">如鼔轉側小腹有雷鳴余曰此腸癰膿已</ab>
-          <ab type="body" n="f06-right-body-03" xml:id="u-f06-right-body-03">成也把蘭製杖将刺之一瘍医留此余示</ab>
+          <ab type="body" n="f06-right-body-03" xml:id="u-f06-right-body-03">成也把蘭製板将刺之一瘍医留此余不</ab>
           <ab type="body" n="f06-right-body-04" xml:id="u-f06-right-body-04">可刺之寸餘膿血如濁淋溝出内使服活</ab>
           <ab type="body" n="f06-right-body-05" xml:id="u-f06-right-body-05">血散瘀湯外傅透雲膏膿滅而後轉使服</ab>
           <ab type="body" n="f06-right-body-06" xml:id="u-f06-right-body-06">十全大補湯月餘而全愈</ab>
-          <ab type="red_head_note" n="f06-right-red_head_note-01" xml:id="u-f06-right-red_head_note-01">蘭製杖ト云フ智玄何</ab>
+          <ab type="red_head_note" n="f06-right-red_head_note-01" xml:id="u-f06-right-red_head_note-01">蘭製板ト云フ□ノ字何</ab>
           <ab type="red_head_note" n="f06-right-red_head_note-02" xml:id="u-f06-right-red_head_note-02">ノ書ニ出ルヤ</ab>
           <ab type="red_head_note" n="f06-right-red_head_note-03" xml:id="u-f06-right-red_head_note-03">蓋就柳葉鍼</ab>
           <ab type="red_head_note" n="f06-right-red_head_note-04" xml:id="u-f06-right-red_head_note-04">□ンセツカ</ab>
@@ -177,7 +179,7 @@
           <ab type="red_comment" n="f06-right-red_comment-01" xml:id="u-f06-right-red_comment-01">腸癰有二途用大黃牡丹湯等破血下膿愈者是腸内生</ab>
           <ab type="red_comment" n="f06-right-red_comment-02" xml:id="u-f06-right-red_comment-02">瘍也外腫焮熱刺之治者此腸外釀膿也施治者必先</ab>
           <ab type="red_comment" n="f06-right-red_comment-03" xml:id="u-f06-right-red_comment-03">辨其來由二途判然而後行術可此篇前後之按亦屬</ab>
-          <ab type="red_comment" n="f06-right-red_comment-04" xml:id="u-f06-right-red_comment-04">内外治法已故附言之</ab>
+          <ab type="red_comment" n="f06-right-red_comment-04" xml:id="u-f06-right-red_comment-04">内外治法已故聊告之</ab>
           <note type="editorial">body_red</note>
         </div>
         <div type="surface" n="left">
@@ -204,7 +206,7 @@
           <ab type="body" n="f07-right-body-03" xml:id="u-f07-right-body-03">調者急可救表救裡宜四逆湯救表宜桂</ab>
           <ab type="body" n="f07-right-body-04" xml:id="u-f07-right-body-04">枝湯大抵有表裡症者先救表後救裡此</ab>
           <ab type="body" n="f07-right-body-05" xml:id="u-f07-right-body-05">則反之此無佗下利清穀此之他証則最</ab>
-          <ab type="body" n="f07-right-body-06" xml:id="u-f07-right-body-06">急劇故先救其急後其緩也則云下利清</ab>
+          <ab type="body" n="f07-right-body-06" xml:id="u-f07-right-body-06">急劇故先救其急後其緩也例云下利清</ab>
           <ab type="body" n="f07-right-body-07" xml:id="u-f07-right-body-07">穀不可攻表汗出必脹滿是則誤治所致</ab>
           <ab type="body" n="f07-right-body-08" xml:id="u-f07-right-body-08">為医者不可不識也楊氏亦云予治病如</ab>
           <ab type="body" n="f07-right-body-09" xml:id="u-f07-right-body-09">奕碁當先救急々者何救其重略其輕也</ab>
@@ -219,8 +221,8 @@
           <ab type="red_comment" n="f07-left-red_comment-01" xml:id="u-f07-left-red_comment-01">文簡意明篇中之上乘</ab>
           <ab type="red_comment" n="f07-left-red_comment-02" xml:id="u-f07-left-red_comment-02">我等醫得此書者欲使蒼生被我仁心乎當時庸倉</ab>
           <ab type="red_comment" n="f07-left-red_comment-03" xml:id="u-f07-left-red_comment-03">林請看牆外一方人此予素志也而當時窮留身於</ab>
-          <ab type="red_comment" n="f07-left-red_comment-04" xml:id="u-f07-left-red_comment-04">一室隔風埃中未得挾羽翩達八表是以素願挫折學</ab>
-          <ab type="red_comment" n="f07-left-red_comment-05" xml:id="u-f07-left-red_comment-05">業就廢古人曰少年太弟一生悔於予有是矣如手青</ab>
+          <ab type="red_comment" n="f07-left-red_comment-04" xml:id="u-f07-left-red_comment-04">一室隔風埃中未得挾羽翩達八表是以志氣摧折學</ab>
+          <ab type="red_comment" n="f07-left-red_comment-05" xml:id="u-f07-left-red_comment-05">業就廢古人曰少年太弟一生悔於予有是矣如予青</ab>
           <ab type="red_comment" n="f07-left-red_comment-06" xml:id="u-f07-left-red_comment-06">年立志態々就學以莫有外事〔缺損〕然有不</ab>
           <note type="editorial">body_red</note>
         </div>
@@ -229,7 +231,7 @@
         <div type="surface" n="right">
           <ab type="red_comment" n="f08-right-red_comment-01" xml:id="u-f08-right-red_comment-01">可語之勢其為可談耳雖然〔缺損〕一介</ab>
           <ab type="red_comment" n="f08-right-red_comment-02" xml:id="u-f08-right-red_comment-02">忽變白頭惟日夜相勉不息其餘在可顧而已此予之所</ab>
-          <ab type="red_comment" n="f08-right-red_comment-03" xml:id="u-f08-right-red_comment-03">警予併以自鑑矣燈下一讀書之識語</ab>
+          <ab type="red_comment" n="f08-right-red_comment-03" xml:id="u-f08-right-red_comment-03">警予併以自警耳燈下一讀書之識語</ab>
           <ab type="red_comment" n="f08-right-red_comment-04" xml:id="u-f08-right-red_comment-04">安政六年仲□十有七日</ab>
           <ab type="red_comment" n="f08-right-red_comment-05" xml:id="u-f08-right-red_comment-05">桃蹊迂人妄批</ab>
           <ab type="red_inline" n="f08-right-red_inline-01" xml:id="u-f08-right-red_inline-01">不學將何如</ab>

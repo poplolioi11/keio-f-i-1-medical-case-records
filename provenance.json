@@ -3,78 +3,78 @@
   "image_viewer": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/manifest.json",
   "source_rights": "https://dcollections.lib.keio.ac.jp/ja/about",
   "shelfmark": "慶應義塾大學北里記念醫學圖書館 富士川文庫 F@イ@1",
-  "data_version": "0.1.0",
+  "data_version": "0.2.0",
   "image_inventory": [
     {
       "image": 1,
       "label": "1",
       "id": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page1",
-      "sha256": "bca73ead5aa1090059afd2bc37f659c8c9b2da7b8e4cba9e9b195ed8f08922f2",
       "locator": "https://iiif.lib.keio.ac.jp/FJK/F-i-1/pdf/F-i-1.pdf#page=1",
+      "sha256": "bca73ead5aa1090059afd2bc37f659c8c9b2da7b8e4cba9e9b195ed8f08922f2",
       "note": "題簽、書庫標貼、水印"
     },
     {
       "image": 2,
       "label": "2",
       "id": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page2",
-      "sha256": "9ff98a498f0ccf188d5fc710433c838bd5642c34429071a710b30f10a71df7c3",
       "locator": "https://iiif.lib.keio.ac.jp/FJK/F-i-1/pdf/F-i-1.pdf#page=2",
+      "sha256": "9ff98a498f0ccf188d5fc710433c838bd5642c34429071a710b30f10a71df7c3",
       "note": "鉛筆書庫字、收藏章、內題、墨筆欄外題記"
     },
     {
       "image": 3,
       "label": "3",
       "id": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page3",
-      "sha256": "fa825a0a639929290377322754e739b0664b3224070524cef4896385f491cea8",
       "locator": "https://iiif.lib.keio.ac.jp/FJK/F-i-1/pdf/F-i-1.pdf#page=3",
+      "sha256": "fa825a0a639929290377322754e739b0664b3224070524cef4896385f491cea8",
       "note": "右收藏章；左十正文欄及朱眉批、朱筆句讀、校記、墨損"
     },
     {
       "image": 4,
       "label": "4",
       "id": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page4",
-      "sha256": "c81ec0250bbb660371bad743ef89e9a1e4068f2d003ddd1771eb95777943b93c",
       "locator": "https://iiif.lib.keio.ac.jp/FJK/F-i-1/pdf/F-i-1.pdf#page=4",
+      "sha256": "c81ec0250bbb660371bad743ef89e9a1e4068f2d003ddd1771eb95777943b93c",
       "note": "右十正文欄、細黑眉批、朱色插改；左七正文欄、朱眉批、末三欄朱批接次頁"
     },
     {
       "image": 5,
       "label": "5",
       "id": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page5",
-      "sha256": "159e29cc52a3cc91870fd50d6cc2560464ac5828cbeffc58418eab33cffa2ef4",
       "locator": "https://iiif.lib.keio.ac.jp/FJK/F-i-1/pdf/F-i-1.pdf#page=5",
+      "sha256": "159e29cc52a3cc91870fd50d6cc2560464ac5828cbeffc58418eab33cffa2ef4",
       "note": "右五朱批欄；左十正文欄、小字朱色插改及朱眉批"
     },
     {
       "image": 6,
       "label": "6",
       "id": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page6",
-      "sha256": "a9525e0c0e89e8c5503f4f0c7938fed9f99fb7b8d41794e354fa4e5cd7767717",
       "locator": "https://iiif.lib.keio.ac.jp/FJK/F-i-1/pdf/F-i-1.pdf#page=6",
+      "sha256": "a9525e0c0e89e8c5503f4f0c7938fed9f99fb7b8d41794e354fa4e5cd7767717",
       "note": "右六正文欄、四朱批欄、朱眉批及框下批；左十正文欄、朱插改"
     },
     {
       "image": 7,
       "label": "7",
       "id": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page7",
-      "sha256": "731b09b0ec70faf7c4a5d55ba348ee4c1c868083adf6cafe257477f3a3ed5d44",
       "locator": "https://iiif.lib.keio.ac.jp/FJK/F-i-1/pdf/F-i-1.pdf#page=7",
+      "sha256": "731b09b0ec70faf7c4a5d55ba348ee4c1c868083adf6cafe257477f3a3ed5d44",
       "note": "右十正文欄、朱句讀及朱尾批；左三正文欄、六朱批欄接次頁"
     },
     {
       "image": 8,
       "label": "8",
       "id": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page8",
-      "sha256": "cef858a6b70cacac5cc31fef9e2c7c4adf0fa59bedf0a5573f25228e3da005f8",
       "locator": "https://iiif.lib.keio.ac.jp/FJK/F-i-1/pdf/F-i-1.pdf#page=8",
+      "sha256": "cef858a6b70cacac5cc31fef9e2c7c4adf0fa59bedf0a5573f25228e3da005f8",
       "note": "右五朱批欄、署記與極淡邊字；左無書寫區"
     },
     {
       "image": 9,
       "label": "9",
       "id": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/FJK/F-i-1/page9",
-      "sha256": "c90c59d250e1c22205850a8e7580fa6fefc15bff5b5547e68ba3e393136ad885",
       "locator": "https://iiif.lib.keio.ac.jp/FJK/F-i-1/pdf/F-i-1.pdf#page=9",
+      "sha256": "c90c59d250e1c22205850a8e7580fa6fefc15bff5b5547e68ba3e393136ad885",
       "note": "素背封、館方水印"
     }
   ]
